@@ -1,0 +1,963 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A treatise of subiection to the powers. Preached almost a yeer since, and now copied out for the presse; yet not to flatter any, but to inform all. : To the powers I say as Jehosaphat did, 2 Chron. 9.6 ... : To others I say in the words of the apostle, I Pet. 2.13 ... / By Tho. Carre.</title>
+            <author>Carre, Thomas, 1599-1674.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1651</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 121 KB of XML-encoded text transcribed from 31 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80609</idno>
+            <idno type="STC">Wing C640A</idno>
+            <idno type="STC">ESTC R173401</idno>
+            <idno type="EEBO-CITATION">45097604</idno>
+            <idno type="OCLC">ocm 45097604</idno>
+            <idno type="VID">171213</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80609)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171213)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2568:3 or 2663:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A treatise of subiection to the powers. Preached almost a yeer since, and now copied out for the presse; yet not to flatter any, but to inform all. : To the powers I say as Jehosaphat did, 2 Chron. 9.6 ... : To others I say in the words of the apostle, I Pet. 2.13 ... / By Tho. Carre.</title>
+                  <author>Carre, Thomas, 1599-1674.</author>
+               </titleStmt>
+               <extent>[8], 56 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Andrew Kembe, and are to be sold at his shop on Margarets Hill in Southwark,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1651.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Item at 2563:3 lacks all after p. 48.</note>
+                  <note>Reproduction of originals in the British Library and the Sutro Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Christianity and politics.</term>
+               <term>Church and state --  England.</term>
+               <term>Kings and rulers --  Biblical teaching.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-04</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-07</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2013-07</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:171213:1" rendition="simple:additions"/>
+            <p>A TREATISE OF SUBIECTION TO THE POVVERS.</p>
+            <p>Preached almoſt a yeer ſince, and now copied out for the Preſſe; yet not to flatter any, but to inform all.</p>
+            <p>To the Powers I ſay as <hi>Jehoſaphat</hi> did,</p>
+            <q>
+               <bibl>2 CHRON. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>9. 6.</bibl>
+               <p>
+                  <hi>Take heed what yee doe, for ye judge not for men, but for the Lord who is alſo with you in the judgment.</hi>
+               </p>
+            </q>
+            <p>To others I ſay in the words of the <hi>Apoſtle,</hi>
+            </p>
+            <q>
+               <bibl>1 PET. 2. 13.</bibl>
+               <p>
+                  <hi>Submit your ſelves to every Ordinance of man for the Lords ſake, whe<g ref="char:EOLhyphen"/>ther it be to King, as to Supream; or to Governours, as unto them that are ſent of him for the puniſhment of them that doe evill, and for the praiſe of them that doe well.</hi>
+               </p>
+            </q>
+            <l>Homo ſum, non poſſum non errare:</l>
+            <l>Haereticus eſſe nolo, quia ſum Chriſtianus.</l>
+            <p>By <hi>THO. CARRE.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Andrew Kembe,</hi> and are to be ſold at his ſhop on <hi>Margarets Hill</hi> in <hi>Southwark,</hi> 1651.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:171213:2"/>
+            <pb facs="tcp:171213:2"/>
+            <head>To the Honor<hi rend="sup">ble</hi> Committee for Plundered Miniſters: Happineſs both here, and for ever.</head>
+            <opener>
+               <salute>HONORABLE GENTLEMEN,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">Y</seg>EE are in place of high Truſt under the Supream power of this Com<g ref="char:EOLhyphen"/>mon-wealth: whom God hath y,</p>
+            <p n="1">1. Advanced to higheſt dignit</p>
+            <p n="2">2. And made proſperous even to wonder and admiration.</p>
+            <p>Never was this Common-wealth more populous. Never were</p>
+            <p n="1">1. Armies more potent,</p>
+            <p n="2">2. Souldiers more reſolute,</p>
+            <p n="3">3. Succeſſes more (if I may uſe the word) Fortunate. The Heavens have been Auſpicious: The Celeſtiall In<g ref="char:EOLhyphen"/>fluences Propicious: And God himſelf obvious to the eyes of all that can ſee, In Miracles, in Mercies, in Victo<g ref="char:EOLhyphen"/>ries. Eternall fame attendeth the Aſſertors of our Liber<g ref="char:EOLhyphen"/>ties here, Immortall glory in Heaven.</p>
+            <pb facs="tcp:171213:3"/>
+            <p> But my Intentions aime in particular at you, Noble Truſtees; For yee are the Fathers of the Clergy, to pro<g ref="char:EOLhyphen"/>tect or to puniſh, to Settle or Sequeſter according to merit and deſert. And I, having from the firſt hitherto endeavoured to advance the Juſtice of the Cauſe, ſo far as my weak abilities could attain. To which end I both preached it up in the Countrey, and penned an Apolo<g ref="char:EOLhyphen"/>gy, which had the allowance of an <hi>Imprimatur</hi> by M. <hi>Iohn White,</hi> 1643. But it miſcarrying, how I know not, I made it as common as I could with my pen, witneſſe two Co<g ref="char:EOLhyphen"/>pies wherewith I preſented the Honorable Committee at <hi>Bury:</hi> beſides others which I gave to ſome Comman<g ref="char:EOLhyphen"/>ders, and other friends in the countrey. And now the laſt <hi>September</hi> I preached the ſubſtance of this wherewith I now preſent your Honors, in my Cure at <hi>Mickfield</hi> in <hi>Suff.</hi> But how it took I may in part judg. I therefore now flie to you as to my City of Refuge, humbly craving ſafe<g ref="char:EOLhyphen"/>guard under the wings of your Benignity, hoping of bet<g ref="char:EOLhyphen"/>ter acceptance from the Preſſe, then from the Pulpit at that time.</p>
+            <p>This ſubject I know well is not pleaſing unto all: it hath I know not whether more enemies or friends. Men love Liberty, Reſtraint is tedious to the moſt. Every one would rule, few are willing to be ruled, unleſſe it be un<g ref="char:EOLhyphen"/>der ſuch a perſon, or in ſuch a way as they do beſt affect. But I look</p>
+            <p n="1">1. Upon Government in generall, as upon a ſpeciall gift of God.</p>
+            <p n="2">2. Upon the preſent Government as upon a Notable and Singular Diſpenſation of over-ruling Provi<g ref="char:EOLhyphen"/>dence.</p>
+            <p>And as <hi>Ioſhua</hi> ſaid to the people, Chooſe you whom <note place="margin">Joſ. 24. 14.</note>
+               <pb facs="tcp:171213:3" rendition="simple:additions"/> yee will ſerve, as for mee and my houſe we will ſerve the Lord. So ſay I, Let others doe what they pleaſe; I, for my part will honor the preſent power with all realty and faithfulneſſe: and I will ſubmit thereto; both for his ſake that hath ſet it up: and for conſcience of my duty.</p>
+            <p>The nature of this Diſcourſe conſidered, I durſt not adventure it abroad but under favour, and Protection of Authority. And I hope your Honors will</p>
+            <p n="1">1. Both allow the matter,</p>
+            <p n="2">2. And Protect the Author, who layeth himſelf low at your feet: humbly craving acceptance, and, if worthy, countenance againſt all Anti-Parlimentarian Criticks, Carpers and Deriders.</p>
+            <p>And ſo reſteth he that is, and will be</p>
+            <closer>
+               <signed>A Servant of Servants to the Power: and a faithfull Obſervant of your high authority under that power of this Common-wealth. Tho. Carre.</signed> 
+               <dateline>From my Study, <date>
+                     <hi>July,</hi> 31. 1650.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:171213:4"/>
+            <head>
+               <hi>To all my Loving Country<g ref="char:EOLhyphen"/>men the free Commoners of the Common-wealth of</hi> England, <hi>Grace, and Peace.</hi>
+            </head>
+            <opener>
+               <salute>Men, Brethren and Fathers,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">M</seg>y Reſpects anſwerable to your ſeverall Places premiſed; Know ye that I doe herein indeavour to hold forth</p>
+            <p n="1">1. The much Queſtioned,</p>
+            <p n="2">2. But unqueſtionable Truth of <hi>Subjection to the Powers.</hi> For men are miſerably diſtracted at this time by reaſon of the overtures in Go<g ref="char:EOLhyphen"/>vernment. They halt between the two opinions of Monar<g ref="char:EOLhyphen"/>chy and Commonalty. And as it was in times paſt, the people were divided into two parts: the one half followed <hi>Tibni</hi> the ſon of <hi>Ginah</hi> to make him King, the other halfe <note place="margin">1 <hi>King</hi> 16. 21.</note> followed <hi>Omri,</hi> and which prevailed yee may there ſee. So now a great part is for one kind of Government, and a great for another. I, for my part look upon the preſent Power,
+<pb facs="tcp:171213:4"/> and I verily think I ought ſo to doe; for Providence is pre<g ref="char:EOLhyphen"/>dominant in this, as well as in all other occurrencies. For Promotion cometh neither from the Eaſt nor from the Weſt, nor from the South (it is neither by Caſualties, nor from Conſtellations) but it is God that putteth down one, <note place="margin">
+                  <hi>Pſal.</hi> 75. 7.</note> and ſetteth up another: And <hi>Daniel</hi> telleth King <hi>Nebu<g ref="char:EOLhyphen"/>chadnezzar,</hi> That the moſt High ruleth in the Kingdome <note place="margin">
+                  <hi>Dan.</hi> 4. 17.</note> of men, and giveth it to whomſoever hee will: and ſetteth over it the baſeſt of the People. And what God ſetteth up, who can pull it down?</p>
+            <p>Beloved Countrey men, I would the world ſhould know,</p>
+            <p n="1">1. That as I would bee loth to ſhew my ſelf a Claw-back Time ſerver.</p>
+            <p n="2">2. So I would not willingly bee thought to bee a rigid Time-oppoſer.</p>
+            <p>But a moſt humble waiter upon God in the diſpenſations of his moſt wiſe and just providence. And this I do ſolemly profeſſe, that I would ſooner have</p>
+            <p n="1">1. My Brains beaten out with Bats,</p>
+            <p n="2">2. My Tongue plucked out by the Roots,</p>
+            <p n="3">3. My hand chopt off with a Sword,</p>
+            <p>Then I would</p>
+            <p n="1">1. Strain my Wit to invent,</p>
+            <p n="2">2. Give my tongue liberty to ſpeak,</p>
+            <p n="3">3. Or publiſh ought with my Pen,</p>
+            <p>Whereby a lawfull right or intereſt might ſuffer the leaſt prejudice.</p>
+            <p>I meddle not therefore with the much ſpoken of Right, whether by Succeſſion (as men are pleaſed to call it) or other<g ref="char:EOLhyphen"/>wiſe. I leave that to Statists. I meddle only with the Vi<g ref="char:EOLhyphen"/>ſibility of the Power. And</p>
+            <p n="1">1. Where, or in whoſe hands it is, we all ſee.</p>
+            <p n="2">
+               <pb facs="tcp:171213:5"/> 2. From whom it is, we cannot but know.</p>
+            <p n="3">3. What is our duty I do endeavour to ſhew. Leaving the reſt to your conſiderations.</p>
+            <p>Brethren, I will not uſe many words, for a word is enough to the wiſe, and they that are otherwiſe will hear no reaſon. Yet let me ſpeak freely to you in the words of the Apostle, <note place="margin">
+                  <hi>Rom.</hi> 9. 1.</note> I ſpeak the truth in Chriſt Ieſus, I lie not, my conſcience alſo bearing me witneſſe in the Holy Ghoſt. I have written nothing in all this Diſcourſe of <hi>Subjection,</hi> but what is (if I be not groſſely miſtaken) according to the truth of Gods Word. <hi>Si quid rectius noſti, Candidus imperti: ſi non, his utere mecum.</hi>
+            </p>
+            <p>But if any ſhall cavill and conteſt, I ſay again with the ſame Apoſtle, Am I therefore become your enemy becauſe <note place="margin">
+                  <hi>Gal.</hi> 4. 15.</note> I tell you the truth? And ſo between hope and fear reſteth he that is, and will be</p>
+            <closer>
+               <signed>
+                  <hi>Your Servant in and for Chriſt, and for the Publike peace,</hi> Tho. Carre.</signed>
+               <dateline>
+                  <hi>From my Study,</hi> 
+                  <date>this 1 <hi>of</hi> Aug. 1650.</date>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:171213:5" rendition="simple:additions"/>
+            <head>A TREATISE OF SUBIECTION TO THE POVVERS.</head>
+            <epigraph>
+               <bibl>ROM. 13. 1, 2.</bibl>
+               <q>
+                  <p>Let every Soul be ſubject to the Higher Powers: for there is no Power but of God, the Powers that be are ordained of God.</p>
+                  <p>Whoſoever therefore reſiſteth the Power reſiſteth the Ordi<g ref="char:EOLhyphen"/>nance of God: and they that reſiſt ſhall receive to them<g ref="char:EOLhyphen"/>ſelves Damnation.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>His whole Epiſtle conſiſts of two parts.</p>
+            <p n="1">1. The former part containeth matter of Doctrin, <hi>viz.</hi> of Predeſtination, Juſti<g ref="char:EOLhyphen"/>fication, Calling, Sanctification, and Salvation. Theſe are diſcourſed in the eleven firſt Chapters.</p>
+            <p n="2">2. The other containeth exhorta<g ref="char:EOLhyphen"/>tion: by way of uſe and application: in the Chapters following, to the end of the Epiſtle.</p>
+            <p>And this was <hi>Pauls</hi> method in all his other Epiſtles;
+<pb n="2" facs="tcp:171213:6"/> for every where hee harpeth on theſe two ſtrings.</p>
+            <p n="1">1. Doctrins of holy faith.</p>
+            <p n="2">2. And exhortations to a godly life.</p>
+            <p>And that which was <hi>Pauls</hi> method in all his writings is the fitteſt method for a Miniſter in his preaching; namely, to join Doctrine and Exhortations as inſeparable companions. That ſo,</p>
+            <p n="1">1. By ſound Doctrin the judgment may be ſetled in the truths of God.</p>
+            <p n="2">2. And by powerfull application the conſcience may bee preſſed, the manners reformed, and the converſation ordered in the ways of godlineſſe.</p>
+            <p>And that Sermon which wants one of theſe may be ſaid truly to be maimed and defective.</p>
+            <p>It was the commendation which <hi>Lactantius</hi> gives of <hi>Cyprian,</hi> that he was plain in his Doctrin, powerfull in his Exhortati<g ref="char:EOLhyphen"/>on. And it is required of a Miniſter, not only to feed, but to doe it wiſely, and faithfully; conſidering, Time, Place, and the ſtate, and condition of the people. Hereupon <hi>Paul</hi> ſpeaketh of milk for babes, and ſtronger meat for grounded chriſtians <note n="(a)" place="margin">1 Cor. 3. 2. Heb. 5. 12.</note>; as if he ſhould ſay, principles for the one, deeper points for the other. Yet in both, he muſt reſpect</p>
+            <p n="1">1. Both Science that he may divide the word of truth aright <note n="(b)" place="margin">2 Tim. 2. 15.</note>.</p>
+            <p n="2">2. And Conſcience that he may divide the word of truth aright <note n="(b)" place="margin">2 Tim. 2. 15.</note>.</p>
+            <p>And as he hath a Miſſion, ſo he muſt look into his Commiſ<g ref="char:EOLhyphen"/>ſion, and that with diligence, and conſcience. That he may take the mind of God aright, and deliver the ſame faithfully to the people. Hereupon it is that <hi>Paul</hi> giveth <hi>Timothy</hi> in charge, To hold faith, and a good conſcience <note n="(c)" place="margin">1 Tim. 1. 19.</note>, and to at<g ref="char:EOLhyphen"/>tend to Reading, to Exhortation, and to Doctrin <note n="(d)" place="margin">1 Tim. 4. 13.</note>, and he warneth <hi>Titus</hi> to exhort, rebuke, with all authority <note n="(e)" place="margin">Tit. 2. 15.</note>. And this teacheth thoſe that are hearers, that they muſt be content, nay they muſt be deſirous to hear both. And not to be</p>
+            <p n="1">1. All for Doctrin; as the <hi>Athenians</hi> were for news <note n="(f)" place="margin">Acts 17. 21.</note>.</p>
+            <p n="2">2. Nor all for uſe, and application; as the injudicious vul<g ref="char:EOLhyphen"/>gar are, who would have particular ſins inveighed againſt, and damnation preached from every text.</p>
+            <pb n="3" facs="tcp:171213:6" rendition="simple:additions"/>
+            <p> I confeſſe it is fit that ſin ſhould have a blow upon all occaſions: and that damnation ſhould be preached; yet with reſpect unto the Text: for he may juſtly be charged with raſh<g ref="char:EOLhyphen"/>neſſe that wrongeth his friend to harm his enemy. So he that inveigheth a againſt ſin more then is occaſioned from his text.</p>
+            <p>Application muſt be grounded upon Doctrin; even as a houſe cannot hang in the air; it muſt be ſetled on a ſure foun<g ref="char:EOLhyphen"/>dation: even ſo that application which wanteth Doctrine to ſupport it, is not much better then an impertinent diſcourſe. This for the generall of the whole Epiſtle.</p>
+            <p>Now the Apoſtle having ſpent the eleven firſt chapters in Doctrine, as I ſaid before. Now he proceedeth in the reſt of the chapters to preſſe his Doctrins home, by ſeveral Exhorta<g ref="char:EOLhyphen"/>tions. For,</p>
+            <p n="1">1. In the twelfth chapter hee laies down three ſeverall Ex<g ref="char:EOLhyphen"/>hortations; as firſt, To the ſincere ſervice of God, in the two firſt verſes. Then to a ſober uſe of ſpiritual gifts unto the 9<hi rend="sup">th.</hi> verſe. Laſtly, to certain offices of charity, to the end of that chapter.</p>
+            <p n="2">2. In the thirteenth chapter hee ſpeaketh principally of thoſe duties which concern us toward civill Magiſtrates. And withall, he commendeth love unto Chriſtians, and dehorteth them from ſome groſſe ſins unbeſeeming their profeſſion.</p>
+            <p n="3">3. In the fourteenth chapter, he ſheweth the uſe of indiffe<g ref="char:EOLhyphen"/>rent things, about which there was a very hot contention be<g ref="char:EOLhyphen"/>tween the beleeving Gentiles and the converted Jews; and ſheweth how the ſtrong ſhould bear with the weak; and both the ſtrong and weak ſhould behave themſelves one to another.</p>
+            <p n="4">4. In the fifteenth chapter, he finiſheth his former Exhorta<g ref="char:EOLhyphen"/>tions to the ſtrong, how they are to bear with the weak: and to that purpoſe he preſſeth the example of Chriſt.</p>
+            <p n="5">5. In the ſixteenth chapter he concludeth his Epiſtle with familiar ſalutations.</p>
+            <p>
+               <hi>Q.</hi> Only the Queſtion may be made, Why the Apoſtle did ſo earneſtly preſſe ſubjection to Civill Magiſtrates?</p>
+            <p>
+               <hi>R.</hi> I anſwer, that it was to acquit the Chriſtians of that im<g ref="char:EOLhyphen"/>putation that was caſt upon them, and upon their profeſſion:
+<pb n="4" facs="tcp:171213:7"/> and for which they were perſecuted by the Heathens. They were defamed to bee enemies to the policy of Common-wealths, and to Civill Magiſtracy. But <hi>Paul</hi> acquitteth them and their Religion from that imputation, by preſſing Sub<g ref="char:EOLhyphen"/>jection upon Chriſtians.</p>
+            <p>
+               <hi>Obj.</hi> But it will be ſaid that the Magiſtrates then were In<g ref="char:EOLhyphen"/>fidells. For the <hi>Roman</hi> Emperors, and their ſubordinate offi<g ref="char:EOLhyphen"/>cers did Lord it over the Chriſtians at that time.</p>
+            <p>
+               <hi>R.</hi> True: yet ſubjection was due to them, becauſe they were in place of Civill ſuperiority. Though they were lawleſſe per<g ref="char:EOLhyphen"/>ſons in themſelves, yet were they lawfull Magiſtrates in their times. They were under God; they were his Vice-gerents, though themſelves were wicked. And for this cauſe it is, that the Apoſtles did preſſe ſubjection upon the Chriſtians at that time when they were under the Civill power of Heathen Ma<g ref="char:EOLhyphen"/>giſtrates.</p>
+            <p n="1">1. <hi>Paul,</hi> not only in this text, but in other places doth preſs it. For writing to <hi>Timothy,</hi> hee ſaith, I exhort that firſt of all Supplications, Prayers, and Interceſſions, and giving of thanks be made for all men; for Kings, &amp; all that are in authority: that we may lead a quiet and a peaceable life in all godlineſs &amp; ho<g ref="char:EOLhyphen"/>neſty; <note n="(g)" place="margin">1 Tim. 2. 1, 2.</note> and he biddeth <hi>Titus</hi> to put them in mind to be ſub<g ref="char:EOLhyphen"/>ject to principalities and powers, and to obey Magiſtrates <note n="(h)" place="margin">Tit. 3. 1.</note>.</p>
+            <p n="2">2. Again, <hi>Peter</hi> ſaith, Submit your ſelves to every Ordi<g ref="char:EOLhyphen"/>nance of man for the Lords ſake, whether it be to King as to Supream, or to Governors: as to them that are ſent by him for the puniſhment of evill doers, and for the praiſe of them that do well <note n="(i)" place="margin">1 Pet. 2. 13, 14.</note>.</p>
+            <p n="3">3. And <hi>Jude</hi> faults them that deſpiſe Government, and ſpeak evill of them that are in authority <note n="(k)" place="margin">Jude 8.</note>, to whom alſo the Apoſtle <hi>Peter</hi> doth agree <note n="(l)" place="margin">2 Pet. 2. 10.</note>. And becauſe there is ſo much grumbling, and heart-burning at this time, by reaſon of the overtures in Civill government, I ſhall take occaſion to ſpeak of that ſubjection which is due to thoſe that are now in place of eminency; and the Viſible power at preſent, both to pro<g ref="char:EOLhyphen"/>mote vertue, and to puniſh vice.</p>
+            <p>We were not long ſince, and for a long time before under
+<pb n="5" facs="tcp:171213:7" rendition="simple:additions"/> Monarchicall Government: under the Power of famous Prin<g ref="char:EOLhyphen"/>ces. But now we are altered into another form. This the Lords doing. He foundeth, and confoundeth Kingdomes. By him Kings reign <note n="(m)" place="margin">Prov. 8. 15.</note>, and by him they come to ruine. If ye do wickedly, ye ſhall periſh both ye and your King <note n="(n)" place="margin">1 Sam. 12. 25.</note>. The Lord it is that putteth down one, and ſetteth up another <note n="(o)" place="margin">Pſal. 75. 7.</note>. And it is ſaid in <hi>Daniel,</hi> that the moſt High ruleth in the Kingdom of men, and giveth it to whomſoever he will, and ſetteth over it the baſeſt of men <note n="(p)" place="margin">Dan. 4. 17.</note>. And what is of Gods doing, man may admire, it is in vain for him to reſiſt. For as <hi>Gamaliel</hi> ſaid to the Councell concerning the Apoſtles; ſo ſay I in behalf of the Power, Refrain from theſe men, and let them alone, for if this councell or work be of men, it will come to nought: but if it be of God, ye cannot overthrow it, leſt happily ye be found to fight even againſt God <note n="(q)" place="margin">Acts 5. 38.</note>. Come and ſee (faith the Pſalmiſt) the works of the Lord: hee is terrible in his doings toward the children of men <note n="(r)" place="margin">Pſal. 66. 5.</note>. Hee doth cut off the ſpirit of Princes: hee is terrible to the Kings of the earth <note n="(s)" place="margin">Pſal. 76. 12.</note>.</p>
+            <p>Come, I ſay, ſee, and admire. Few men look higher then on ſecondary cauſes. They complain of this thing or that: of this man or that: if it were not for this or that, things would have been otherwiſe. But a wiſe man looketh up to God as the authour of all alterations. The chief men of <hi>Iſrael</hi> rejected Chriſt to reign over them: of whom <hi>Peter</hi> ſaith, to whom com<g ref="char:EOLhyphen"/>ing as to a living ſtone, diſallowed indeed of men, but choſen of God, and precious <note n="(t)" place="margin">1 Pet. 2. 4.</note>. And <hi>David</hi> ſpake of him Propheti<g ref="char:EOLhyphen"/>cally, The ſtone which the Builders rejected is become the head ſtone of the corner. This is the Lords doing (ſaith he) and it is marvellous in our eyes <note n="(u)" place="margin">Pſal. 118. 22.</note>, which text of <hi>Da<g ref="char:EOLhyphen"/>vid</hi> is alledged by Chriſt <note n="(w)" place="margin">Mat. 21. 42.</note>, and by <hi>Peter</hi> 
+               <note n="(x)" place="margin">Acts 4. 11. 1 Pet. 2. 7.</note>, and hence I conclude, That the Lord hath an hand in all Alterations, Ci<g ref="char:EOLhyphen"/>vill and Eccleſiaſticall: Politicall and Oeconomicall: Perſo<g ref="char:EOLhyphen"/>nall and Publike. And if a ſparrow lighteth not upon the ground, but God hath a finger, a Providentiall finger in it <note n="(y)" place="margin">Mat. 10. 29</note>; Then in all alterations, and altercations Providence muſt be prevalent.</p>
+            <p n="1">
+               <pb n="6" facs="tcp:171213:8"/> 1. The Lord gave the <hi>Iſraelites</hi> a King at their fooliſh im<g ref="char:EOLhyphen"/>portunity <note n="(z)" place="margin">1 Sam. 8. 5.</note>, in which regard the Lord ſaith he gave them a King in his anger <note n="(a)" place="margin">Hoſ. 13. 11.</note>.</p>
+            <p n="2">2. And the Lord taketh away a King in his diſpleaſure. <hi>Joſiah</hi> was a good King. He did that which was right in the eyes of the Lord, and walked in the ways of <hi>David</hi> his father, and turned not aſide to the right hand, nor to the left <note n="(b)" place="margin">2 Kin. 22. 2.</note>; like him there was no King before him that turned to the Lord with all his heart, and with all his ſoul, and with all his might, according to the Law of <hi>Moſes:</hi> neither after him aroſe there any like him. <note n="(c)" place="margin">2 King. 23. 25.</note> Yet he was taken away in the flower of his age, in Gods anger to <hi>Judah</hi> 
+               <note n="(d)" place="margin">2 King. 23. 26.</note>, And <hi>Jeremiah</hi> and all <hi>Ju<g ref="char:EOLhyphen"/>dah</hi> lamented the loſs of him <note n="(e)" place="margin">2 Chr. 35. 25.</note>.</p>
+            <p>We had a King, but our ſins have taken him away, and the Government from his. The State is now the viſible power: they have taken the Government upon them. They make Laws, they order the Coinage, they do all things, and we muſt be ſubject. God hath ſet them up: and there is no ſtrugling a<g ref="char:EOLhyphen"/>gainſt the diſpenſations of his over-ruling Providence: leſt, like a fiſh in the net, or a beaſt in the mire, we bring our ſelves into a worſe condition. For my text ſaith, <hi>There is no power but of God.</hi> Therefore,</p>
+            <p n="1">1. How ever the Power had advanced it ſelf;</p>
+            <p n="2">2. Or however it ſhall manage matters;</p>
+            <p>Yet wee muſt be ſubject, either doing things that ſhall bee commanded, if lawfull: or ſubmitting to cenſure, or to pu<g ref="char:EOLhyphen"/>niſhment, yea though the cauſe deſerve it not.</p>
+            <p>
+               <hi>Q.</hi> But will ſome man ſay, Is the State incontrollable? may there be no reſiſtance in caſe of Tyranny, or oppreſſion? It is a rule, that from whom Kings have their Precedency, by the ſame they may be reſiſted, and as caſe may require depoſed: but this muſt be by the whole State, not by any private or par<g ref="char:EOLhyphen"/>ticular power. So the Parliament being the Kingdomes Tru<g ref="char:EOLhyphen"/>ſtees for the Kingdomes good; may not the Kingdome riſe againſt them, if they falſifie the truſt repoſed in them?</p>
+            <p>
+               <hi>A.</hi> The caſe ſeemeth to be alike. But it is a captious queſti<g ref="char:EOLhyphen"/>on, therefore I ſhall not determine it. Yet this I ſay, there is
+<pb n="7" facs="tcp:171213:8" rendition="simple:additions"/> ſome difference: for the Parliament are the Kingdome Re<g ref="char:EOLhyphen"/>preſentative; and what they doe the Kingdome doth it. And can the Kingdome have two Repreſentatives at once? or by what authority ſhall they make a new Election while the for<g ref="char:EOLhyphen"/>mer are in being? This paſſeth my underſtanding. But to proceed.</p>
+            <p n="1">1. Kings are not ſimply neceſſary unto Government: though a King may be an ornament, a beauty, a benefit, and a bleſſing: The <hi>Iſraelites</hi> had no King for a long time; yet were well governed.</p>
+            <p n="2">2. There may be Governours that may exerciſe Kingly au<g ref="char:EOLhyphen"/>thority, and not have the title: which made <hi>Peter</hi> require ſub<g ref="char:EOLhyphen"/>jection unto Governors as well as to Kings <note n="(f)" place="margin">1 Pet. 2. 13, 14.</note>.</p>
+            <p>We had a King, but now we have none in <hi>Eſſe,</hi> nay not ſo much as in <hi>Poſſe,</hi> ſo far as we can ſee with the eye of worldly poſſibility. I ſay nothing of the Right, I leave that to Statiſts, who are verſed in the fundamentall laws of this Nation. But to the viſible face of things as they now ſtand, God hath transferred the Government: and we muſt wait upon God, making no diſturbance. Let him alone with his work; and let us mind our own, which is Subjection.</p>
+            <p>Theſe things I have ſpoken by way of preface, not for any evill will that I have to Kingly Government: but to preſſe ſubjection to the Powers. My intents are known to God on<g ref="char:EOLhyphen"/>ly, to whom I muſt be accomptable.</p>
+            <p>
+               <hi>Q.</hi> But what ſay you to the poſterity of the late King, as relating to the title of Succeſſion?</p>
+            <p>
+               <hi>R.</hi> I anſwer, It is tranſcendent, far above my capacity. I, for my part, meddle only with the viſibility of the Power. And where it is we all ſee. For,</p>
+            <p n="1">1. Whoſe is the Coin;</p>
+            <p n="2">2. Who make laws;</p>
+            <p n="3">3. Who exact and receive Cuſtome, Tributes, Taxes, we all know.</p>
+            <p>Theſe are appendent to the Power. Therefore though I ſhall</p>
+            <p n="1">1. Honour that Poſterity in my heart.</p>
+            <p n="2">2. Wiſh well to it in my thoughts.</p>
+            <p n="3">
+               <pb n="8" facs="tcp:171213:9"/> 3. Speak honorably of it with my tongue.</p>
+            <p n="4">4. And indeavour to advance the dignity of it with my pen upon all neceſſary and juſt occaſions;</p>
+            <p>Yet I ſhall leave it for the preſent to the wiſdome and juſtice of the Superiour power now in being. And ſhall acquieſce in the judgment and determination of the Higheſt Court, which is, and ought to be Judge, next under God, and his Word, of all Queries of this nature. And now to my text, which hath theſe two parts.</p>
+            <p n="1">1. Firſt, is a duty which is enjoined by Apoſtolicall autho<g ref="char:EOLhyphen"/>rity.</p>
+            <p n="2">2. Secondly, the reaſons wherewith the ſame duty is ur<g ref="char:EOLhyphen"/>ged, and enforced.</p>
+            <p n="1">1. Firſt, the duty; which hath three particulars.</p>
+            <p n="1">1. Firſt, the perſons whom this duty doth concern, with the generality. <hi>Soul. Every</hi> Soul. None excepted; none exempted from it.</p>
+            <p n="2">2. Secondly, the duty it ſelf, what it is; with the ſtrict com<g ref="char:EOLhyphen"/>mand of it. <hi>Be Subject. Let</hi> be ſubject.</p>
+            <p n="3">3. Thirdly, to whom this duty is to bee performed. To Powers. <hi>To the High Powers.</hi>
+            </p>
+            <p n="2">2. Again, the Reaſons wherewith the duty is inforced; which are theſe two:</p>
+            <p n="1">1. The advancement of the Power whence it is? <hi>The Powers that be ordained of God.</hi>
+            </p>
+            <p n="2">2. The danger of reſiſting the Power, which reflecteth,</p>
+            <p n="1">1. Firſt, upon God, whoſe Ordinance is thereby reſiſted.</p>
+            <p n="2">2. Secondly, upon him that maketh, and manageth the reſiſtance; who thereby incurreth no leſſe them damnation.</p>
+            <p>Of theſe ſeverally, and in order.</p>
+            <p n="1">1. Firſt, of the duty, with the ſeverall particulars that are in it: Which I ſaid were three.</p>
+            <p n="1">1. Firſt, the perſons whom this duty doth concern: with the generality. <hi>Soul. Every</hi> Soul.</p>
+            <p n="1">1. Firſt, <hi>Soul.</hi> And Soul ſignifieth Perſon in this text.</p>
+            <p>The word Soul (I confeſſe) ſignifieth diverſly in the Scrip<g ref="char:EOLhyphen"/>tures.</p>
+            <pb n="9" facs="tcp:171213:9" rendition="simple:additions"/>
+            <p> Sometimes it ſignifieth the ſpirituall part of man diſtin<g ref="char:EOLhyphen"/>guiſhed from the body. As in that ſaying of Chriſt, Fear not them which can kill the body, but are not able to kill the ſoul, &amp;c. <note n="(g)" place="margin">Mat. 10. 28.</note>.</p>
+            <p>Sometimes Soul is put for life, which is reſident in the ſoul. Thus ſaith <hi>David,</hi> my ſoul is among Lions <note n="(h)" place="margin">Pſal. 57. 4.</note>. And in many other places of Scripture: ſpecially in the <hi>Pſalms</hi> 
+               <note n="(i)" place="margin">Pſal. 7. 2. 17. 13. 59. 3. 63. 9.</note>.</p>
+            <p>But it is often taken for the whole man: the perſon con<g ref="char:EOLhyphen"/>ſiſting both of body, and ſoul. The ſoul that ſinneth ſhall die the death <note n="(k)" place="margin">Ezek. 18. 4.</note>. All the Souls which came with <hi>Jacob</hi> into <hi>E<g ref="char:EOLhyphen"/>gypt, &amp;c.</hi> 
+               <note n="(l)" place="margin">Gen. 46. 26.</note>; which <hi>Moſes</hi> in another place thus reporteth, Thy fathers went down with threeſcore and ten perſons <note n="(m)" place="margin">Deut. 10. 22.</note>. So in this text, Soul ſignifieth the perſon,</p>
+            <p n="2">2. Secondly, the generality, <hi>Every</hi> Soul. That is, Every one, man and woman. There are none excepted, not one ex<g ref="char:EOLhyphen"/>empted. I ſay, Every man and woman.</p>
+            <p n="1">1. Whereſoever they live;</p>
+            <p n="2">2. Of what ſort, ſtate, condition ſoever they be. Whether Civill or Eccleſiaſticall. They muſt be ſubject.</p>
+            <p>The Papiſts are hereby condemned; for they</p>
+            <p n="1">1. To advance the Lordſhip Paramount of the Pope,</p>
+            <p n="2">2. Do diſcharge the Clergy of all ſorts from their Sub<g ref="char:EOLhyphen"/>jection to Civill Magiſtrates. But,</p>
+            <p n="1">1. In the Old Teſtament the Prieſts and Levites were ſub<g ref="char:EOLhyphen"/>ject to the Kings, they were commanded by them <note n="(n)" place="margin">2 Chr. 17. 7. 29. 5. 35. 6</note>.</p>
+            <p n="2">2. And in the New Teſtament, we read, That Chriſt payed tribute <note n="(o)" place="margin">Mat. 17. 27.</note>; And that <hi>Paul</hi> appealed to <hi>Ceſar</hi> 
+               <note n="(p)" place="margin">Acts 25. 11.</note>. And <hi>Paul</hi> com<g ref="char:EOLhyphen"/>mandeth Subjection in my text. And <hi>Peter</hi> required Submiſ<g ref="char:EOLhyphen"/>ſion <note n="(q)" place="margin">1 Pet. 2. 13.</note>. Therefore Every Soul, one and other, muſt bee in ſubjection to Civill authority.</p>
+            <p>The caſe is plain for the Perſon. Yet before I paſſe this, in that the perſon is comprehended under the term Soul, which is the more noble part of the perſon. By the way, it hinteth unto us, That every one muſt have a ſpeciall regard of his Soul.</p>
+            <p n="1">1. The body is not to be neglected.</p>
+            <p n="2">2. But the Soul, the good of the Soul is ſpecially to be re<g ref="char:EOLhyphen"/>garded: and that for ſpeciall reaſons.</p>
+            <pb n="8" facs="tcp:171213:10"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="9" facs="tcp:171213:10" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="10" facs="tcp:171213:11"/>
+            <p n="1">1. Firſt, Becauſe it is the better, the more noble part of the perſon.</p>
+            <p n="2">2. Again, becauſe therein properly is the image of God.</p>
+            <p n="2">2. Thirdly, becauſe that is firſt converted.</p>
+            <p n="4">4. Laſtly, becauſe that ſhall firſt be glorified.</p>
+            <p>That hath the firſt in priviledge: therefore let it have the firſt of our care.</p>
+            <p n="1">1. Men are carefull of their body, to feed, cloath, and nou<g ref="char:EOLhyphen"/>riſh that.</p>
+            <p n="2">2. But who almoſt regardeth his precious ſoul?</p>
+            <p n="1">1. The Word is the food of our ſouls.</p>
+            <p n="2">2. Chriſts righteouſneſſe is the true clothing.</p>
+            <p n="3">3. And Chriſtian graces are as Jewells to adorn the ſoul.</p>
+            <p n="1">1. In Juſtification, Chriſts righteouſneſſe is put upon us. In whom we are compleat <note n="(r)" place="margin">Col. 2. 10.</note>. To this end are thoſe expreſſions of putting on Chriſt <note n="(s.)" place="margin">Rom. 13. 12. Gal. 3. 27.</note>
+            </p>
+            <p n="2">2. In Sanctification, we are clothed with the righteouſneſſe of the Spirit. To this end are thoſe expreſſions, Of putting on the new man <note n="(t)" place="margin">Eph. 4. 26.</note>, Of putting on the whole armour of God <note n="(u)" place="margin">Eph. 6. 11.</note>, Of being clothed with humility <note n="(w)" place="margin">1 Pet. 5. 5.</note>, of putting on bowells of mercy <note n="(x)" place="margin">Col. 3. 12.</note>.</p>
+            <p n="3">3. And in Glorification, when this mortall ſhall have put on immortality <note n="(y)" place="margin">1 Cor. 15. 53</note>, then ſhall we bee clothed upon with our houſe from heaven <note n="(z)" place="margin">2 Cor. 5. 2.</note>. But who regardeth theſe things? who laboureth for theſe? Men are taken up with thoughts and de<g ref="char:EOLhyphen"/>ſires of earthly contents, to be clothed with wealth, honour, and ſuch like tranſitory contents. Of which Chriſt ſaith, What will it profit a man, if hee gain the whole world, and loſe his ſoul? <note n="(a)" place="margin">Mat. 16. 26.</note>? The loſſe will not countervail the gaine. Above all things then mind this. Firſt ſeek the Kingdome of God, and the righteouſneſſe thereof <note n="(b.)" place="margin">Mat. 6. 33.</note> Firſt, that is, in the firſt place, and with our firſt and beſt ſtrength. But this is but occaſionally, and by the way. And ſo from the perſon, with the generality of the perſon, I come</p>
+            <p n="2">2. Secondly, to the duty, with the ſtrict command of it. <hi>Be ſubject. Let</hi> be ſubject.</p>
+            <p n="1">
+               <pb n="11" facs="tcp:171213:11" rendition="simple:additions"/> 1. Firſt, be <hi>Subject.</hi> The word ſignifieth to be ſubordinate: and it implyeth the order that is upheld by Government: which whoſo diſturbeth, he endeavoureth to bring in confu<g ref="char:EOLhyphen"/>ſion. And it is well obſerved, that the Apoſtle doth not ſay Be obedient, but be <hi>Subject:</hi> which is a generall word, and is incluſive of all Dues, and Duties.</p>
+            <p n="1">1. For as there are duties on the Governors part, which are theſe three.</p>
+            <p n="1">1. To make Laws.</p>
+            <p n="2">2. To maintain Laws,</p>
+            <p n="3">3. And to urge the execution of Laws.</p>
+            <p>That ſo, the good may be protected, and the refractory re<g ref="char:EOLhyphen"/>ſtrained, and the evill puniſhed. And above all to have a ſpeci<g ref="char:EOLhyphen"/>all care of Religion.</p>
+            <p n="1">1. To advance the true;</p>
+            <p n="2">2. And to ſuppreſſe all forms of falſe worſhip. In which re<g ref="char:EOLhyphen"/>gard Princes are and ought to be Nurſing fathers <note n="(c)" place="margin">Eſa. 49. 23.</note>.</p>
+            <p n="2">2. So on the other ſide Subjection implyeth three things.</p>
+            <p n="1">1. The firſt is Honour. Their perſons are to be honoured. <hi>Saul</hi> required it of <hi>Samuel.</hi> Honour me (ſaith he) now before the people <note n="(d)" place="margin">1 Sam. 15:</note>; <hi>Nathan</hi> bowed himſelf before <hi>David</hi> 
+               <note n="(e)" place="margin">1 King. 1. 23.</note>. Honor thy Father and thy Mother, ſaith God <note n="(f)" place="margin">Exo. 20. 12.</note>. Under which terms of Father and Mother all ſorts of Superiours are com<g ref="char:EOLhyphen"/>prehended. As Fathers of Countries, of families, and fathers in Chriſt. The Apoſtle ſaith, Honour all men <note n="(g)" place="margin">1 Pet. 2. 17.</note>, Superiours, E<g ref="char:EOLhyphen"/>qualls, and Inferiors are to be honoured: but every one as his place requireth. Superiours muſt be reverenced: Inferiors ſup<g ref="char:EOLhyphen"/>ported: Equalls regarded.</p>
+            <p n="2">2. The ſecond is Obedience. Obedience I ſay to their Laws and Commands. Either to doe them, if lawfull and poſſible: Or to ſubmit to puniſhment for not doing them, if impoſſible, or unlawfull. For what is commanded by full authority of the Power, obedience is to be ſhewed, either active obedience to do the ſame, or paſſive, making no reſiſtance. And yet in this paſſive obedience there muſt be retained</p>
+            <p n="1">1. Both fidelity to the Power: no acting, no complotting. For this we have <hi>Davids</hi> Example, He would not avenge him<g ref="char:EOLhyphen"/>ſelf
+<pb n="12" facs="tcp:171213:12"/> upon <hi>Saul</hi> when he had him at advantage <note n="(h)" place="margin">1 Sam. 26. 8. &amp;c.</note>. And <hi>Jere<g ref="char:EOLhyphen"/>miah</hi> perſwaded the Jewes to ſeek the peace of the King and Kingdome, where they were held in captivity <note n="(i)" place="margin">Jer. 29. 7.</note>.</p>
+            <p n="2">2. And Piety, to pray for oppreſſing and tyrannicall Ru<g ref="char:EOLhyphen"/>lers. As <hi>Daniel</hi> did, who prayed for the life of <hi>Darius</hi> 
+               <note n="(k)" place="margin">Dan. 6. 21.</note>.</p>
+            <p>
+               <hi>Q.</hi> But here it will be ſaid, If Active or Paſſive obedience is to bee yeelded to all the commands of Superiors: how came it to paſſe that againſt the late King, and againſt his com<g ref="char:EOLhyphen"/>mands there was made open reſiſtance.</p>
+            <p>
+               <hi>R.</hi> I anſwer, you muſt remember what I ſaid even now, when I ſpake of the commands of the full authority of the Power. For though the late King was a Monarch; yet his Kingdome was not an abſolute, but a mixed Monarchy, which is of all Monarchies the beſt. For an abſolute Monar<g ref="char:EOLhyphen"/>chy doth eaſily degenerate into a Tyranny: but ſo cannot a mixed Monarchy, becauſe the People in their Truſtees have ſome reall and appendent power.</p>
+            <p>And that this was a mixed Monarchy it appeareth in this: that though the late King, and his Predeceſſors were to keep and defend the Laws: yet they were not the ſole Makers of the Laws. They could neither make new Laws, nor repeal the old of themſelves, that is, by their abſolute and ſole authority. The People, by their Repreſentatives in Parliament had a power with the Kings. They to contrive and frame ſuch Laws as were for the benefit of the Subject; the Kings to ratifie and confirm thoſe Laws for the good of his people. To the King and Parliament this belonged, as is evident in all former Par<g ref="char:EOLhyphen"/>liaments, by the diſanulling of Patents, and the puniſhing Monopoliſts, which have been burthenſome and prejudiciall to the Common-wealth. And if all power in theſe things had been in the King, then had he been abſolute of himſelf: and by conſequent there ought to have been no reſiſtance: but paſſive obedience (or a ſubmiſſion to puniſhment) where active obe<g ref="char:EOLhyphen"/>dience could not with a ſafe conſcience be yeelded.</p>
+            <p>For this we have the caſe of the three Children: <hi>Nebuchad<g ref="char:EOLhyphen"/>dezzar</hi>'s command was unlawfull, yet they made no reſiſtance; but ſubmitted themſelves to the cenſure, and ſentence of the
+<pb n="13" facs="tcp:171213:12" rendition="simple:additions"/> King <note n="(l)" place="margin">Dan. 3. 16,</note>. Now <hi>Nebuchadnezzar</hi> was an abſolute Monarch: he had indeed Counſellours, but none to correct, or contradict his extravagances. But ſo it was not with the late Kings of <hi>England:</hi> for Patents and Monopolies have been diſanulled; and Patentees, Monopoliſts, and Projectors have been cenſured by former and later Parliaments. And therefore the full au<g ref="char:EOLhyphen"/>thority of the Power was not in the King alone, but in King and Parliament conjunctim.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>
+               </label> But it will be ſaid that the King was above Law: for hee could pardon treſpaſſes againſt Law.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reply. </seg>
+               </label> I anſwer, that all that can be ſaid is, that the Kings of <hi>En<g ref="char:EOLhyphen"/>gland</hi> had a diſpenſing power, by vertue of Prerogative.</p>
+            <p n="1">1. Yet not ſimply of the Law it ſelf.</p>
+            <p n="2">2. But in regard of the execution of the right of the Law.</p>
+            <p>They could extend Royall favour if they pleaſed: yet the vertue of the Law was no whit abated thereby. Put the caſe, Two perſons under the ſame doome of Law, for one and the ſame offence: the one ſuffereth for the ſame, the other hath his pardon. There is power enough in the Law for execution, with which the King (for ſome cauſes) doth diſpenſe. And properly to be above Law, is to have abſolute, and indepen<g ref="char:EOLhyphen"/>dent power</p>
+            <p n="1">1. To make Lawes.</p>
+            <p n="2">2. To alter Lawes.</p>
+            <p n="3">3. And to take them away at pleaſure: which was not in the ſole power of any of the Kings of <hi>England.</hi> If otherwiſe, Parliaments were Nul, and needleſſe, of no uſe, of no neceſſity, of no benefit.</p>
+            <p n="3">3. The third duty implied in Subjection is Maintenance: by Tribute, Poll money, <note n="(m)" place="margin">Matth. 17. 24.</note> and by other lawfull taxes, and Impoſitions. Give to every one his due, Tribute to whom Tribute, &amp;c. <note n="(n)" place="margin">Rom. 13. 7.</note> Chriſt paid tribute <note n="(o)" place="margin">Mat. 17. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>0.</note>; And exhorted to give unto <hi>Caeſar</hi> the things that are <hi>Caeſars</hi> 
+               <note n="(p)" place="margin">Mat. 22. 17.</note>. And maintenance is due to the Magiſtrate by a fourfold right.</p>
+            <p n="1">1. Firſt, as a ſign, and teſtimony of ſubjection.</p>
+            <p n="2">2. Secondly, as a reward for his pains.</p>
+            <p n="3">
+               <pb n="14" facs="tcp:171213:13"/> 3. Thirdly, for the honour of his Perſon and Court.</p>
+            <p n="4">4. Fourthly, for the ſafety of State or Common wealth. And ſo much for the duty, <hi>be ſubject.</hi>
+            </p>
+            <p n="2">2. Now ſecondly, the ſtrict injunction of the duty; the Emphaſis is in the word <hi>Let.</hi> Let be ſubject: which enjoineth the ſtrict performance of the thing.</p>
+            <p>Let all things be done decently, and in order, ſaith <hi>Paul</hi> 
+               <note n="(q)" place="margin">1 Cor. 14. 40.</note>.</p>
+            <p>Let the Elders that rule well be counted worthy of double honour <note n="(r)" place="margin">1 Tim, 5.</note>.</p>
+            <p>Let your women keep ſilence in the Churches <note n="(ſ)" place="margin">1 Cor. 14. 34.</note>.</p>
+            <p>Let every one of you in particular ſo love his wife even as himſelf <note n="(t)" place="margin">Ephe. 5. 33</note>. So here, <hi>Let every Soul be ſubject.</hi> That is, Let every one ſubmit, or yeeld himſelf to authority. And this im<g ref="char:EOLhyphen"/>plieth a threefold neceſſity.</p>
+            <p n="1">1. The firſt is Duty, to which we are obliged.</p>
+            <p n="2">2. The ſecond is Benefit, that will redound to us, by doing our duty.</p>
+            <p n="3">3. The third is Danger which will follow upon denying to doe our duty.</p>
+            <p n="3">3. Now thirdly, to whom ſubjection muſt be yeelded? To the Powers. <hi>To the Higher Powers.</hi>
+            </p>
+            <p n="1">1. All Powers, even the inferior and ſubordinate muſt bee ſubmitted to.</p>
+            <p n="2">2. Much more the Superior Powers, to which the other are in ſubordination.</p>
+            <p>And it is to be underſtood of the Civill, the ſecular Powers in this text: becauſe the Apoſtle ſpeaketh in this chap<g ref="char:EOLhyphen"/>ter of Tribute, and cuſtome which is due to ſuch onely.</p>
+            <p>And be the Powers what they will, good, or bad: by what right or wrong they obtain the place of Superiority: how ever they demean themſelves in the uſe, or abuſe of their Pow<g ref="char:EOLhyphen"/>er, rule they rightly, or rigidly: yet being in the place of Ci<g ref="char:EOLhyphen"/>vill Superiority, ſubjection muſt be yeelded to them. The A<g ref="char:EOLhyphen"/>poſtles biddeth ſervants to be obedient to their Maſters with fear, and trembling: with good will doing ſervice, as to the Lord, and not unto men <note n="(v)" place="margin">Ephe. 6. 5. Coloſ. 3. 22.</note>. And <hi>Peter</hi> ſaith, Servants be ſub<g ref="char:EOLhyphen"/>ject
+<pb n="15" facs="tcp:171213:13" rendition="simple:additions"/> to your Maſters, not only to the good &amp; gentle, but alſo to the froward <note n="(w)" place="margin">1 Pet. 2. 18.</note>. And the Roman Emperours by force and might, rather then by right, Lorded it at the time when <hi>Paul</hi> preſſed ſubjection to the Powers. Whereſoever then, or in whomſoever the viſible Power is at preſent, to it we muſt be ſubject. And we ſee where the viſible Power now is, God hath tranſ-ferred the Government, as I ſaid before: for without him nothing can come to paſs. It is Gods diſpoſing for his own ends: in mercy, or in judgement: how ever we muſt be ſubject.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>
+               </label> Onely here a queſtion may be made, that is, how far evill, and Tyrannicall Powers have their power from God? Whe<g ref="char:EOLhyphen"/>ther by ſufferance and permiſſion onely?</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reply. </seg>
+               </label> I anſwer, that though this doth not concern the preſent State. For we do not look upon the Power now in the hands of the Parliament, as uſurped, and Tyrannicall. For they have</p>
+            <p n="1">1. Proceeded againſt the late King.</p>
+            <p n="2">2. Depoſed his Poſterity.</p>
+            <p n="3">3. Taken the Government to themſelves, to the uſe and be<g ref="char:EOLhyphen"/>nefit of thoſe that have betruſted them.</p>
+            <p>And all this is by the fundamentall Laws of the Kingdom, as they have ſolemnly declared. I muſt beleeve it: for <hi>I</hi> cannot contradict: yet, that evill Magiſtrates have their power, not onely from permiſſion, but by Divine Diſpoſition ap<g ref="char:EOLhyphen"/>peareth,</p>
+            <p n="1">1. Not onely from this text, <hi>the Powers that be are ordained by God.</hi> And yet thoſe Powers were uſurped and Tyrannicall.</p>
+            <p n="2">2. But from other texts of Scriptures. As it is ſaid in <hi>Iob,</hi> When he hideth his face, who can behold him, whether it bee done againſt a Nation, or againſt a man <note n="(x)" place="margin">Iob 34. 30.</note>? <hi>David</hi> ſaith, It is God that putteth down one, and ſetteth up another <note n="(y)" place="margin">Pſal. 75. 7.</note>. And it is ſaid in <hi>Daniel,</hi> that the moſt High ruleth in the Kingdome of men, and giveth it to whomſoever he will, and ſetteth over it the baſeſt of men, <note n="(z)" place="margin">Dun. 4. 17.</note>. And if he ſet up, it is not in man to pull down. The Lord by the Prophet ſaith, I gave them a King in mine anger <note n="(a)" place="margin">Hoſ. 13. 11.</note>. It is likewiſe ſaid that the Lord raiſed up, or advanced the <hi>Aſſyrians (b),</hi> and the <hi>Ba<g ref="char:EOLhyphen"/>bylonians</hi>
+               <pb n="16" facs="tcp:171213:14"/> 
+               <hi>(c).</hi> Therefore evill Governours are not ſet up with<g ref="char:EOLhyphen"/>out Gods Ordinance, and diſpoſition, for the puniſhment of ſome. And in that <hi>Daniel</hi> prayed for <hi>Nebuchadnezzar,</hi> wiſhing that the calamities ſignified in his dreams, might betide to his enemies, and that he himſelf might eſcape them, <note n="(d)" place="margin">Dan 4 19.</note>. It ſheweth that people are to pray for the welfare, and proſperi<g ref="char:EOLhyphen"/>ty of their wicked Governours. For a bad Government is bet<g ref="char:EOLhyphen"/>ter then none at all. And a Tyranny is better then an Anar<g ref="char:EOLhyphen"/>chy. <hi>Ieremy</hi> bid the Jewes ſeek the peace of the City, whither the Lord had cauſed them to be carried away captives, and to pray unto the Lord for it: for in the peace thereof they ſhould have peace <note n="(e)" place="margin">Jer. 29. 7.</note>. <hi>Paul</hi> exhorts that prayers, and ſuppli<g ref="char:EOLhyphen"/>cations be made for all men, for Kings (and thoſe that exer<g ref="char:EOLhyphen"/>ciſe Kingly authority) when they were Tyrants, and perſe<g ref="char:EOLhyphen"/>cutors of Gods people, <note n="(f)" place="margin">1 Tim. 2. 1.</note>: the like doth <hi>Peter.</hi> Submit your ſelves (ſaith he) to every Ordinance of man for the Lords fake <note n="(g)" place="margin">1 Pe. 2. 13, 14.</note>.</p>
+            <p>And now to reflect upon the preſent Government in the hands of the Parliament, and thoſe that are in ſubordination to them: What is the Parliament, but the Commons re<g ref="char:EOLhyphen"/>preſentative?</p>
+            <p n="1">1. Legally ſummoned,</p>
+            <p n="2">2. Legally choſen,</p>
+            <p n="3">3. Legally admitted,</p>
+            <p n="4">4. Legally conſtituted,</p>
+            <p n="5">5. Legally continued,</p>
+            <p n="6">6. Legally proceeding in whatſoever they have done.</p>
+            <p n="7">7. And ſtill they propound the Legality of what they in<g ref="char:EOLhyphen"/>tend to doe. And all by the fundamentall Laws and conſtitu<g ref="char:EOLhyphen"/>tions of this Nation.</p>
+            <p>What would men have more?</p>
+            <p n="1">1. They have taken the Government into their hands for the good, and freedome of them that have betruſted them.</p>
+            <p n="2">2. They, by their Declarations, promiſe to manage all for the Publike good.</p>
+            <p n="3">3. They conſtantly affirm that they have no wayes falſified nor betrayed the truſt repoſed in them.</p>
+            <p n="4">
+               <pb n="17" facs="tcp:171213:14" rendition="simple:additions"/> 4. And though they take up Armes, yet not againſt the King directly, but againſt his, and the Kingdomes enemies.</p>
+            <p n="5">5. Again, the Kings power Politick was tyed to the Parlia<g ref="char:EOLhyphen"/>ment by the Act of Continuation. Hee took up Armes firſt, they onely in defence of themſelves, and of his Power which he had ſecured to them by the foreſaid Act. He fought againſt himſelf, they for him. Beſides, all Declarations, and the Co<g ref="char:EOLhyphen"/>venant it ſelf were for the preſervation of his Majeſties per<g ref="char:EOLhyphen"/>ſon, Power and Eſtate. The ſequels I leave to bee anſwered by them that know, and promiſe to defend the Fundamentall Laws of the Kingdome. Hoping they can give a fair account of all proceedings with his late Majeſty, and his ſurviving Po<g ref="char:EOLhyphen"/>ſterity.</p>
+            <p n="6">6. However, they are in poſſeſſion of the Power, and it is not my part to enquire how, nor to diſpute the equity there<g ref="char:EOLhyphen"/>of. The Power is in them, and I, for my part will be ſubject.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>
+               </label> Some ſay, this is not a Parliament, or not the Parliament of the people: for they are but a few of thoſe that were cho<g ref="char:EOLhyphen"/>ſen which now ſit.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> For my part, I neither know what number is requiſite to make a Parliament, nor what number do fit. This we all know that thoſe now fit, doe act as the Power.</p>
+            <p n="1">1. They make no Laws.</p>
+            <p n="2">2. They order the coynage.</p>
+            <p n="3">3. They impoſe taxes, and cuſtomes.</p>
+            <p>And we ſee no viſible Power Superiour to them. So long therefore as the Power is in them, we muſt be ſubject to them, as to the Superiour Power.</p>
+            <p>Thus much of the former part of my Text: with the particu<g ref="char:EOLhyphen"/>lars in it.</p>
+            <p n="2">2. Now ſecondly, the reaſons enforcing the duty, which, as I ſaid, are two.</p>
+            <p n="1">1. The firſt is, the advancement of the Power, whence it is? <hi>There is no power but of God,</hi> ſaith my text. Chance and For<g ref="char:EOLhyphen"/>tune hath no place nor power in this thing, as is ſhewed be<g ref="char:EOLhyphen"/>fore, both from that paſſage in <hi>David</hi> 
+               <note n="(h)" place="margin">Pſal. 75. 7.</note> and from that in <hi>Daniel</hi> 
+               <note n="(i)" place="margin">Dan. 4. 17:</note>.</p>
+            <pb n="16" facs="tcp:171213:15"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="17" facs="tcp:171213:15" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="18" facs="tcp:171213:16"/>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>
+               </label> It will be here objected, that the Lord ſaid, they had ſet up Kings, but not by him, they had made Princes and hee knew it not <note n="(k)" place="margin">Hoſ. 8. 4.</note>. If hee had no knowledge of, nor hand in thoſe advancements: then all Powers are not ordained by him.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> That was ſpoken of <hi>Ieroboam,</hi> and thoſe that followed him in the Kingdome of <hi>Iſrael.</hi> They obtained not the Kingdom by vertue of the promiſe made to <hi>David:</hi> but either by defecti<g ref="char:EOLhyphen"/>on of the people, or by uſurpation, they intruded themſelves. Therefore, for that cauſe the Lord ſpake as he did. Yet God did know it, and had a hand in it: as a judgement upon <hi>Ro<g ref="char:EOLhyphen"/>hoboam</hi> for his folly, that the people did ſet up <hi>Ieroboam.</hi> For the Lord owneth the thing: This thing is done by mee, ſaith the Lord <note n="(l)" place="margin">1 King. 12. 24. 2 Chron. 11.4.</note>. The Lord doth, many times, puniſh one ſin with a<g ref="char:EOLhyphen"/>nother: and yet God may be ſaid not to will the thing. It is ſaid of <hi>Elies</hi> ſons that they harkened not unto the voice of their father, becauſe the Lord would ſlay them <note n="(m)" place="margin">1 Sam. 2. 25.</note>, that is, the Lord had given them up to a wilfull, and diſobedient heart, for their wretchedneſſe, that they might periſh. So in the Iſ<g ref="char:EOLhyphen"/>raelites ſetting up of <hi>Ieroboam</hi> God had a Judiciall hand, as a puniſhment to them: not an effecting hand, and as a thing pleaſing to himſelf.</p>
+            <p>Yet further to clear this matter, wee muſt know, that in Government theſe two things are to be diſtinguiſhed.</p>
+            <p n="1">1. Firſt, the office it ſelf, with the inſtitution of it: this is of God. Gods will is, that there ſhould be Authority in ſome, or other, that juſtice may be duely, and truly admini<g ref="char:EOLhyphen"/>ſtred. That is, that the good may be protected: the refractory may be reſtrained, and puniſhed according to deſert. This the Apoſtle ſheweth in the third and fourth verſes of this Chapter. Where he ſheweth the ends of Government, in theſe words. Rulers are not a terrour to good workes, but to the evill. Wilt thou not be afraid of the Power? doe that which is good, and thou ſhalt have praiſe of the ſame: for he is the Mi<g ref="char:EOLhyphen"/>niſter of God to thee for good. But if thou doeſt that which is evill, be afraid: for he beareth not the ſword in vain: for he is the Miniſter of God, a revenger to execute wrath upon him that doth evill <note n="(n)" place="margin">Rom. 13. 3, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note>.</p>
+            <p n="2">
+               <pb n="19" facs="tcp:171213:16" rendition="simple:additions"/> 2. Secondly, the abuſe of the Authority. In which regard it may be ſaid, that the Power is not of God: when the right ends, for which it was ordained, is not obſerved. There<g ref="char:EOLhyphen"/>fore if ye marke the text in <hi>Hoſea,</hi> ye ſhall ſee it is ſaid. They have ſet up Kings, but not by mee, <hi>id eſt,</hi> not by vertue of my promiſe: and they have made Princes and I knew it not, <hi>id eſt,</hi> I approved not. For though the Lord liketh Power: yet he diſliketh the abuſe thereof.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>
+               </label> If there be no power but of God, then it ſeemeth that the power whereby we ſin againſt God is of God.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> To anſwer this, we muſt diſtinguiſh </p>
+            <p n="1">1. The power of acting,</p>
+            <p n="2">2. From the exerciſe of that power.</p>
+            <p>In regard of activity, ſo all that ability whereby wee are able to doe good and evill, is of God, In whom we live, move, and have our being; But the exerciſe of that activity to diverſe <note place="margin">
+                  <hi>(o)</hi> Act. 17. 28.</note> things, as to good, and bad, is from contrary principles. The one is from the grace of God the Creator. The other is from the pravity of the creature.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>
+               </label> Again, it will bee ſaid, If wee muſt be ſubject to the Higher Powers, then by conſequent wee muſt bee ſubject to the Devill. For he (ſaith Chriſt) is the Prince of the world <note n="(p)" place="margin">Ioh. 14. 30.</note>. And <hi>Paul</hi> calleth him the God of the world <note n="(q)" place="margin">2 Cor. 4. 4.</note>. And the Prince of darkneſſe <note n="(r)" place="margin">Epheſ. 6. 12.</note>. And the Prince that ruleth in the air <note n="(s)" place="margin">Epheſ. 2. 2.</note>.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> For anſwer hereunto. </p>
+            <p n="1">1. Firſt, we muſt diſtinguiſh of the word World. For by World is ſometimes meant the faithfull that are in the world, over whom the Devill hath no ruling power. Sometimes the wicked of the world: theſe are they that are under the power of the Devill. The whole world lieth in wickedneſſe, ſaith <hi>Iohn</hi> 
+               <note n="(t)" place="margin">1 Ioh. 5. 19.</note>.</p>
+            <p n="2">2. Again, the Devill is a God but in repute: and a Prince but by uſurpation. God is the King of all the Earth <note n="(u)" place="margin">Pſal. 47. 7.</note>. The Devill hath no lawfull authority to rule, or raign: onely he incroacheth and uſurpeth in Gods juriſdiction. This for the firſt reaſon.</p>
+            <p n="2">
+               <pb n="20" facs="tcp:171213:17"/> 2. The ſecond reaſon is from the danger of reſiſtance, which reflecteth,</p>
+            <p n="1">1. Firſt, upon God, whoſe Ordinance is reſiſted. Hee that reſiſteth the power reſiſteth the Ordinance of God: the powers being ordained of God. Now Ordinances ſignifie Decrees and Appointments. There are wicked Ordinances of men, of which the Prophet ſpeaketh <note n="(w)" place="margin">Eſa. 10. 1.</note>. But this is the Ordinance of God for the good of his people.</p>
+            <p>God, in the beginning, gave man a threefold power.</p>
+            <p n="1">1. Firſt, over himſelf, to rule all his actions, by the power of his Free will. This is loſt in <hi>Adam,</hi> In whom wee all died <note n="(x)" place="margin">1 Cor. 15. 22.</note>.</p>
+            <p n="2">2. Secondly, over the Creatures. Have thou dominion (ſaith God) over the Fiſh of the Sea, and over the Fowl of the Air, and over every living thing <note n="(y)" place="margin">Gen. 1. 18.</note>. This is much impaired, and almoſt utterly loſt. For as man diſobeyed his Creator: ſo many of the creatures have caſt off the yoke of their ſub<g ref="char:EOLhyphen"/>jection unto man.</p>
+            <p n="3">3. Thirdly, one man over another: and this is twofold.</p>
+            <p n="1">1. Firſt, Oeconomicall in the family.</p>
+            <p n="2">2. Secondly, Politicall in the Commonwealth.</p>
+            <p>Both theſe remain. Man hath them ſtill, though many men doe miſerably abuſe them.</p>
+            <p>God then hath inſtituted, and ordained Government: it is his Ordinance, and man muſt ſubmit, and at no hand reſiſt.</p>
+            <p>Now the Power is reſiſted two wayes.</p>
+            <p n="1">1. Firſt, by force, in riſing up; and practiſing againſt Au<g ref="char:EOLhyphen"/>thority.</p>
+            <p n="2">2. Secondly, by fraud: as when the Magiſtrate is either by ill ſuggeſtions miſinformed, and incenſed; or when his juſt dues are detained.</p>
+            <p>Now mark the generality. Whoſoever by any ways reſiſteth the Power which is of God, reſiſteth God himſelf. And whoſo reſiſteth God, medleth with more then his match: and he is ſure to goe by the worſt. For who ever rebelled againſt God and proſpered <note n="(z)" place="margin">Iob 9. 4.</note>? <hi>Whoſoever,</hi> ſaith my text. No quali<g ref="char:EOLhyphen"/>fication of the perſon can qualifie the ſinne of the perſon. For
+<pb n="21" facs="tcp:171213:17" rendition="simple:additions"/> the Commands of God doe concern all. And the Soul that ſinneth ſhall ſuffer for it <note n="(a)" place="margin">Ezek. 18. 4.</note>. Greatneſſe is no priviledge, Meanneſſe no excuſe: neither can bear out. For indignation and woe to every ſoul of man that doth evill <note n="(b)" place="margin">Rom. 2. 8.</note>.</p>
+            <p n="2">2. Again it reflecteth on man to this prejudice. They that reſiſt ſhall receive to themſelves damnation, ſaith the Apoſtle in my text.</p>
+            <p n="1">1. It is not ſaid damage.</p>
+            <p n="2">2. But damnation, which implieth puniſhment both in this life, and in the next. And that,</p>
+            <p n="1">1. Both by the hand of men, for the Magiſtrate may puniſh his with ſome ſevere puniſhment, as Impriſonment, Confiſca<g ref="char:EOLhyphen"/>tion, and with death it ſelf.</p>
+            <p n="2">2. And God will puniſh him both here, and hereafter.</p>
+            <p>And whereas it is ſaid that ſuch ſhall receive to themſelves damnation, it implieth that they are acceſſary to their owne duniſhment of what ſort ſoever it be. Wherein their madneſs and folly doth appear, in running upon their own hurt, and ruine.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ʋſe. </seg>
+               </label> Now the uſe of all is in two particulars. </p>
+            <p n="1">1. Firſt, for information, to teach us that God is the Au<g ref="char:EOLhyphen"/>thor of all order, not of confuſion <note n="(c)" place="margin">1 Cor. 14. 33.</note>.</p>
+            <p n="1">1. As in heaven he hath ſet all things in order. There is or<g ref="char:EOLhyphen"/>der among the holy Angels: for we read of <hi>Michael</hi> the Arch<g ref="char:EOLhyphen"/>angell <note n="(d)" place="margin">Dan. 12. 1. Iude; v. 9. Revel. 12 7.</note>. And though that <hi>Michael</hi> was the Lord Jeſus, who is called the Angell of the Covenant <note n="(e)" place="margin">Mal. 3. 1.</note>: yet becauſe it is ſaid <hi>Michael</hi> and his Angels, it ſheweth that there is an order even among thoſe glorious Spirits. And one Star differeth from a<g ref="char:EOLhyphen"/>nother in glory <note n="(f)" place="margin">1 Cor. 15.</note>.</p>
+            <p n="2">2. So in the Church: for <hi>Paul</hi> reckoning certain orders in the Miniſtery, he ſaith God hath ſet ſome in the Church, Firſt Apoſtles; Secondarily Prophets; Thirdly Teachers; After that Miracles <note n="(g)" place="margin">1 Cor. 12. 18.</note>. Firſt, Secondarily, Thirdly, After that, who ſeeth not plainly a difference of order, a priority?</p>
+            <p n="3">3. So amongſt men on earth, God will have Superiority in ſome: he requireth Subjection in others.</p>
+            <p n="1">1. Some would have neither Governours, nor Govern<g ref="char:EOLhyphen"/>ment.
+<pb n="22" facs="tcp:171213:18"/> They deſpiſe Government <note n="(h)" place="margin">Iude, ver. 8.</note>. And ſpeake evill of them that are in dignity <note n="(i)" place="margin">2 Pet. 2. 10.</note>. As if all Authority, and Superi<g ref="char:EOLhyphen"/>ority were uſurpation: When as my text ſaith, It is an Or<g ref="char:EOLhyphen"/>dinance of God.</p>
+            <p n="2">2. Others not contented with the preſent Government, ſpecially, not in the hands of thoſe in whom it is now, are faulty in their duty of willing Subjection. But, as I ſaid, we muſt look up unto God, who ſits at the helm, and guideth the ſteering of all things below. And we muſt not looke ſo much upon the perſon, in which there may be ſome miſcar<g ref="char:EOLhyphen"/>riages: as upon the Author of the Power, who can not bee faulted. For which cauſe wee muſt be ſubject to the lawfull power, even of thoſe, that in themſelves, are lawleſſe perſons. And bleſſe God for it, in that hee maketh not man like the fiſhes of the Sea: or as the creeping things which have no Ru<g ref="char:EOLhyphen"/>ler over them <note n="(k)" place="margin">Hab. 1. 14.</note>.</p>
+            <p>It is a bleſſing that we live under Government, whereby we injoy our Lands, Goods, priviledges, and proprieties: and whatſoever we can juſtly call our own. Wee read in the Hi<g ref="char:EOLhyphen"/>ry of the Judges, that there were divers out-rages committed.</p>
+            <p n="1">1. Of <hi>Micahs</hi> Idolatry <note n="(l)" place="margin">Iudg. 17. 6.</note>.</p>
+            <p n="2">2. Of the violence done to <hi>Micah</hi> by the children of <hi>Dan</hi> 
+               <note n="(m)" place="margin">Iudg. 18. 1.</note>.</p>
+            <p n="3">3. Of the indignity done to the Levites Concubine <note n="(n)" place="margin">Iudg. 19. 1.</note>.</p>
+            <p n="4">4. Of the rape committed by the <hi>Benjaminites</hi> 
+               <note n="(o)" place="margin">Iudg. 21. 25.</note>.</p>
+            <p>And in every of theſe miſcarriages, this is rendered to bee the reaſon, Becauſe, in thoſe dayes, there was no King in Iſra<g ref="char:EOLhyphen"/>el. That is, there was then no ſetled Government: no conſtant Magiſtrate, either to promote vertue, or to puniſh vice. Ho<g ref="char:EOLhyphen"/>nor thy Father and thy Mother, ſaith God <note n="(p)" place="margin">Exod. 20. 12</note>. And <hi>Paul</hi> ur<g ref="char:EOLhyphen"/>geth the ſame command even now, in the Goſpell times <note n="(q)" place="margin">Epheſ. 6. 2.</note>. Give unto <hi>Ceſar</hi> (ſaith Chriſt) the things that are <hi>Ceſars</hi> 
+               <note n="(r)" place="margin">Mat. 22. 21<g ref="char:punc">▪</g>
+               </note>, and yet <hi>Ceſar</hi> was no Chriſtian, but Heathen Emperour. <hi>Let e<g ref="char:EOLhyphen"/>very Soul be ſubject,</hi> ſaith my text. Submit your ſelves to every ordinance of man for the Lords ſake, ſaith the Apoſtle <note n="(s)" place="margin">1 Pet. 2. 13.</note>, Ye muſt needs be ſubject, not only for wrath, but for conſci<g ref="char:EOLhyphen"/>ence ſake, ſaith <hi>Paul</hi> 
+               <note n="(t)" place="margin">Rom. 13. 5.</note>.</p>
+            <p>So then Chriſtians are bound to ſubjection by a threefold right.</p>
+            <p n="1">
+               <pb n="23" facs="tcp:171213:18" rendition="simple:additions"/> 1. Firſt, in reſpect of God: for it is his Ordinance.</p>
+            <p n="2">2. Secondly, in reſpect of the Powers: it being due to the Magiſtrate.</p>
+            <p n="3">3. Laſtly, in reſpect of our ſelves: that we wound not Con<g ref="char:EOLhyphen"/>ſcience; For even Conſcience hath this principle in it, that Au<g ref="char:EOLhyphen"/>thority muſt be obeyed.</p>
+            <p n="2">2. Again, this is for condemnation of thoſe that deſpiſe Dominion, and ſpeak evill of Dignities. As if all Authority were Uſurpation, and an Anarchie the beſt form of a Com<g ref="char:EOLhyphen"/>mon-wealth. But it is ſufficiently ſhewed before, that the Lord would have Order, and Government among men. And my text is a concluding text againſt theſe, which requireth Sub<g ref="char:EOLhyphen"/>jection in every Soul.</p>
+            <p>To theſe may be added, thoſe that would have Govern<g ref="char:EOLhyphen"/>ment, but it muſt be of their own framing: and therefore will not yeeld their Subjection to the preſent viſible Power.</p>
+            <p n="1">1. Some would have a King: as the Iſraelites ſaid to <hi>Sa<g ref="char:EOLhyphen"/>muel,</hi> Make us now a King to judge us like all Nations <note n="(v)" place="margin">1 Sam. 8. 5.</note>. And though <hi>Samuel</hi> told them what inconveniences might befall them under Kingly Government: yet they were inſtant, and importunate. Nay but we will have a King to rule over us <note n="(w)" place="margin">1 Sam. 8. 19.</note>.</p>
+            <p n="2">2. Others doe better affect a State Government, a Com<g ref="char:EOLhyphen"/>mon wealth. But Subjection is required to both, as God ſhall ſet up the one or the other. Put them in minde (ſaith the A<g ref="char:EOLhyphen"/>poſtle) to be ſubject to Principalities, and Powers, and to o<g ref="char:EOLhyphen"/>bey Magiſtrates <note n="(x)" place="margin">Tit. 31. 1.</note>. Magiſtrates indefinitely, as not limitting it to any one ſort, or kind of Superiours.</p>
+            <p>Theſe things conſidered, I, for my part, can find no ground for reſiſtance; be the Magiſtrate what he will, if he be inveſted with the Power, Subjection is his due, and it is our duty. And for the preſent Power in the hands of the State,</p>
+            <p n="1">1. God hath ſet it up for his own ends.</p>
+            <p n="2">2. Wee muſt not, of our ſelves, goe about to pull it down: leave that to him, to whom it belongeth to alter or eſta<g ref="char:EOLhyphen"/>bliſh <note n="(y)" place="margin">Pſal. 75. 7. Dan. 4. 17.</note>. God hath diſpoſed that to be the Power: So long
+<pb n="24" facs="tcp:171213:19"/> therefore as it is the Power, every Soul muſt ſubmit, muſt be ſubject to it.</p>
+            <p>
+               <hi>Q.</hi> But how if the Power doth advance it ſelf? and by in<g ref="char:EOLhyphen"/>direct wayes and means?</p>
+            <p>
+               <hi>R.</hi> Yet we muſt be ſubject to it: for though we may, while any uſurping power is attempting, make reſiſtance to defeat it: yet if it hath got poſſeſſion, then there is a kinde of con<g ref="char:EOLhyphen"/>queſt, and that altereth the caſe. For it cannot get poſſeſſion but by Gods diſpoſition. And Gods judgements are alwayes juſt, though the means ſubſervient cannot alwayes, nor in all things be juſtified.</p>
+            <p n="1">1. <hi>Jacob</hi> got the bleſſing, (which was his brother <hi>Eſau's</hi> right) by indirect, unjuſtifiable means <note n="(z)" place="margin">Gen. 27. 19. 35.</note>: and yet could not get his father to reverſe it. I have bleſſed him, ſaith <hi>Iſaac,</hi> yea and he ſhall be bleſſed <note n="(a)" place="margin">Gen. 27. 33.</note>.</p>
+            <p n="2">2. But more appertinent to our purpoſe is that of <hi>Baaſha,</hi> he conſpired againſt <hi>Nadab,</hi> and ſlew him, and reigned in his ſtead <note n="(b)" place="margin">1 King. 15. 27.</note>: and yet it is ſaid the Lord exalted him. For as much as I exalted thee out of the duſt, and made thee Prince over my people Iſrael <note n="(c)" place="margin">1 King. 16. 2.</note>. The like is ſaid of <hi>Jeroboam.</hi> Hee gat the Kingdome of Iſrael by a faction <note n="(d)" place="margin">1 King. 12. 19.</note>, yet the Lord ſaith he ex<g ref="char:EOLhyphen"/>alted him, and made him prince over the people Iſrael <note n="(e)" place="margin">1 Kin. 14. 7.</note>. And <hi>Zimri</hi> conſpired againſt <hi>Ela</hi> the ſon of <hi>Baaſha,</hi> and reigned in his ſtead <note n="(f)" place="margin">1 King. 16. 10.</note>, of whom it is ſaid that he deſtroyed al the houſe of <hi>Baaſha,</hi> according to the word of the Lord <note n="(g)" place="margin">1 King. 16.</note>.</p>
+            <p>
+               <hi>Ob.</hi> Some may happily ſay, that I am no friend to Kingly Government.</p>
+            <p>
+               <hi>R.</hi> I am a friend, and will be a friend to Government: to what Government ſo ever the Lord is, and ſhall bee pleaſed to ſet up.</p>
+            <p n="1">1. If he ſet up Kingly Government again: as I have been, ſo I ſhall be ſubject to it.</p>
+            <p n="2">2. And now that he hath ſet up another Government, I dare not make reſiſtance.</p>
+            <p>The viſible power for the preſent is that which I ſhall eie with reverence and reſpect.</p>
+            <p n="1">1. If good, then have I cauſe to joy with the people of God.</p>
+            <p n="2">
+               <pb n="25" facs="tcp:171213:19" rendition="simple:additions"/> 2. If bad, I muſt reflect upon the cauſe, which is ſin. How<g ref="char:EOLhyphen"/>ever therefore, <hi>Paul,</hi> in my text biddeth me be ſubject.</p>
+            <p>And what I have now ſpoken as in mine owne perſon, I doe entreat all Subjects to apply it to themſelves, becauſe my text ſaith, <hi>Let every Soule be ſubject to the Higher Powers.</hi>
+            </p>
+            <p>I had thought here to have made an end: but I am neceſſi<g ref="char:EOLhyphen"/>tated to enlarge my ſelfe, to free my ſelf from imputations which might be caſt upon mee, for ſome things which I deli<g ref="char:EOLhyphen"/>vered in the beginning of our unhappy Diſtractions, <hi>viz.</hi> Con<g ref="char:EOLhyphen"/>cerning the Hoſtility: the Arms which were taken up by the Parliament, for the ſecurity of the State.</p>
+            <p>And then I ſaid, and ſo I ſay ſtill, That Armes were firſt taken up by the counſell, and advice of an adverſe diſ<g ref="char:EOLhyphen"/>affected party.</p>
+            <p n="1">1. To deprive the Kingdome of its undoubted rights.</p>
+            <p n="2">2. To invade Religion.</p>
+            <p n="3">3. And to ſuppreſſe all Parliamentary power for the time to come.</p>
+            <p>Notwithſtanding the many humble addreſſes, and large proffers of both Houſes then ſitting, of augmentation of Ho<g ref="char:EOLhyphen"/>nour and Revenew.</p>
+            <p>And therefore Armes were reaſſumed by the beſt affected, for the Kingdomes ſafety: and to defend what the Law of Natures, and the Laws of this Nation had made our owne. And what He, by whom Kings reign, had given unto us.</p>
+            <p>To clear this, we muſt remember that Arms were firſt taken up by the inſtigation of a diſcontented party.</p>
+            <p n="1">1. To force conditions upon the Parliament: and thereby to bring the Kingdome into a miſerable ſlavery, under Prero<g ref="char:EOLhyphen"/>gatives lawleſſe and unlimitted power.</p>
+            <p n="2">2. And to protect and keep notorious incendiaries from the hand of Juſtice.</p>
+            <p>And conſider withall;</p>
+            <p n="1">1. Both, what Proclamations were procured to render the Parliament, and Parliamentary proceedings odious to the people.</p>
+            <p n="2">2. And what attempts were made to Quaſh, Quell, Sup<g ref="char:EOLhyphen"/>preſſe
+<pb n="26" facs="tcp:171213:20"/> the preſent Parliament, notwithſtanding its eſtabliſh<g ref="char:EOLhyphen"/>ment by a Law to which his Majeſty then was a party: and thereby to deprive the Kingdom of all hope of benefit by Par<g ref="char:EOLhyphen"/>liaments for the time to come.</p>
+            <p>Let all indifferent men judge if the Parliament had not cauſe to ſtand up in the Kingdomes and its own defence. And if the Kingdome was not concerned (as the caſe then ſtood) to ſtand up with, and for the Parliament (the King<g ref="char:EOLhyphen"/>domes Truſtees); and to Covenant with them, in the preſence of the King of Kings.</p>
+            <p n="1">1. The Laws were violated,</p>
+            <p n="2">2. The State diſtracted, and diſtempered by factious Spi<g ref="char:EOLhyphen"/>rits.</p>
+            <p n="3">3. Religion (the joy of our lives, the very life of our ſouls) was in danger.</p>
+            <p n="4">4. The Subjects Priviledges, and Proprieties were in<g ref="char:EOLhyphen"/>vaded.</p>
+            <p n="5">5. Notorious Delinquents ſtood up, and were protected from Law, againſt all Law.</p>
+            <p n="1">1. The Cauſe was common.</p>
+            <p n="2">2. The Faction great.</p>
+            <p n="3">3. Their violence inſufferable.</p>
+            <p n="4">4. And every ones Intereſt was concerned in it.</p>
+            <p>By which means the Kingdom lay bleeding, and weltering in its bloud. Conſider theſe things, and judge righteouſly. For Armes were not taken up againſt the King directly: but a<g ref="char:EOLhyphen"/>gainſt his, and the Kingdomes enemies. Againſt thoſe that had ſet the Nations in Combuſtion.</p>
+            <p>
+               <hi>Ob.</hi> But that was the Kings party. And was it the part of Subjects to take up Arms againſt him in his party?</p>
+            <p>
+               <hi>R.</hi> The Kings party was two wayes to be conſidered.</p>
+            <p n="1">1. Either as his perſon was engaged by meere ſur prizall onely.</p>
+            <p n="2">2. Or as he might engage himſelfe by voluntary conſent, whereby hee may bee ſaid to bee ſurpriſed in his judgement alſo.</p>
+            <p n="1">1. For the firſt, the caſe is clear: that Armes might bee
+<pb n="27" facs="tcp:171213:20" rendition="simple:additions"/> taken up to diſingage his perſon, howſoever, or by whomſoe<g ref="char:EOLhyphen"/>ver it might be in danger of ſurprizing: or if it had been actu<g ref="char:EOLhyphen"/>ally ſurprized. To this purpoſe we have the example of <hi>Abiſhai</hi> his reskuing <hi>Davids</hi> perſon from <hi>Iſhbi-Benob,</hi> when ſlaughter or ſurprizall, was juſtly to be feared <note n="(h)" place="margin">2 Sam. 21. 16.</note>: and <hi>Abrahams</hi> example in reskuing of <hi>Lot</hi> is <note n="(i)" place="margin">Gen. 14. 16.</note> not altogether impertinent. And if none can be be excuſed, if he help not the innocent when hee is in danger, as <hi>Solomon</hi> ſaith, If thou forbear to deliver them that are drawn to death and thoſe that are ready to be ſlaine, &amp;c. <note n="(k)" place="margin">Pro. 24. 11.</note>. Then much leſſe can Subjects bee excuſed, if they ſee their King in apparent danger, and withdraw from him.</p>
+            <p n="2">2. For the ſecond, grant it was ſo: yet where his volunta<g ref="char:EOLhyphen"/>ry conſent was not regulated in the judgement of the Grand Councell of the Kingdome (which ought to be Iudge next under God, and his word of all State Queries) and in this caſe: Armes might bee taken up by the advice and Authority of that Grand Councell, rather then the whole ſhould wrack and come to ruine.</p>
+            <p>And this maketh the caſe clear, that Armes were not taken up,</p>
+            <p n="1">1. Againſt the perſon of the late King,</p>
+            <p n="2">2. Nor againſt his Politick power,</p>
+            <p n="3">3. Nor againſt a Legall party:</p>
+            <p>But againſt a diſcontented, a perfidious party to their country, that had Captivated his Majeſties perſon, or his judg<g ref="char:EOLhyphen"/>ment, or both, by force, or flattery, for their own pernicious ends. Thus was King <hi>Charles</hi> abuſed, and made reſolute to the ruine of himſelfe, and of his Poſterity.</p>
+            <p>Beſides the King in one of his Meſſages to the Parliament, or in one of his Declarations confeſſed that the Parliament had power ſufficient to take up Armes,</p>
+            <p n="1">1. In their juſt defence,</p>
+            <p n="2">2. For the Kingdomes ſafety,</p>
+            <p n="3">3. And to bring Delinquents unto Juſtice.</p>
+            <p>Which is an unanſwerable argument to prove the Legality of the Defenſive Warre: it being concluded directly from his grants.</p>
+            <pb n="28" facs="tcp:171213:21"/>
+            <p> 
+               <hi>Obj.</hi> Some ſay that hee was driven from the Parlia<g ref="char:EOLhyphen"/>ment.</p>
+            <p>
+               <hi>R.</hi> I demand, Who drove him? Not the Parliament, for they uſed no force, nor any thing that might terrifie and affright him. If it were clamours of diſcontented people: I dare ſay, if he would been pleaſed to ſtay, they would have provided for his ſafety before their own. The truth is, he was drawn away by the adverſe party for Deſtructive ends. But let me demand, Did not many petitions follow him from place to place? To <hi>Newmarket,</hi> and almoſt, if not altogether, to <hi>York?</hi> were not many proffers made to him of increaſe of honor, and revenue? And yet all would not prevaile.?</p>
+            <p>
+               <hi>Obj.</hi> But did not the Parliament, or their Forces, or the Parliament by their Forces ſeek his life?</p>
+            <p>
+               <hi>R.</hi> Yes, the preſervation, not the deſtruction of it. For juſtification whereof, conſider</p>
+            <p n="1">1. The Proteſtation,</p>
+            <p n="2">2. All Declarations,</p>
+            <p n="3">3. The Nationall Covenant.</p>
+            <p>Shew me any thing in any one of them, that ſoundeth that way, by any conſtruction that can be made of them, or any of them: and then I am convinced.</p>
+            <p>
+               <hi>Ob.</hi> But did they not detain his revenue from him? &amp; who ſo detaineth that which ſhould preſerve life, do they not in effect, what in them lieth to take away the life it ſelf? I am ſure it is within the compaſſe of the Sixt Commandement.</p>
+            <p>
+               <hi>R.</hi> It was not ſimply detained from him: but rather reſer<g ref="char:EOLhyphen"/>ved for him, leſt it ſhould be employed contrary to the origi<g ref="char:EOLhyphen"/>nall uſes, or uſes for which it was conferred upon him. For that vaſt maintenance was, at firſt, annexed to the Crowne, both for the Honour of the King, and for the welfare of the Kingdome.</p>
+            <p>And the Parliament did declare to be reſponſall for it, whenſoever the King ſhould be pleaſed to return to his place, and duty. In the mean time it was reſerved, leſt the enemies of King and Kingdome, ſhould have been enabled therewith to manage their cruell and deſtructive ends.</p>
+            <pb n="29" facs="tcp:171213:21" rendition="simple:additions"/>
+            <p> 
+               <hi>Obj.</hi> But you ſaid that Religion was in danger. Did not the King in his manifold Declarations, and that with deepeſt Proteſtations, and bitter Execrations on himſelfe, and his, Declare for the Proteſtant Religion? what would men have had more?</p>
+            <p>
+               <hi>A.</hi> I confeſſe I ſaw thoſe Declarations, and ſtood amazed, when I conſidered withall,</p>
+            <p n="1">1. A Proclamation in Popiſh parts for the advancement of the Catholick Religion in <hi>England.</hi>
+            </p>
+            <p n="2">2. The Iriſh Rebells (profeſſed Papiſts) invited, and called to his aſſiſtance.</p>
+            <p n="3">3. A Popes <hi>Nuncio</hi> entertained here.</p>
+            <p n="4">4. Papiſts licenſed to arm themſelves, and admitted into his Armies.</p>
+            <p n="5">5. A Bull from <hi>Rome.</hi>
+            </p>
+            <p n="6">6. And Letters that were intercepted, for an Eccleſiaſticall Hierarchy, to be confirmed by the Pope.</p>
+            <p>There was ſome poiſon under this Plantain.</p>
+            <p>But the Parliament declared for more then the Generall Name of Proteſtancy. And I would fain know whether</p>
+            <p n="1">1. Be better in it ſelf,</p>
+            <p n="2">2. Or more be deſired? the Proteſtant Religion in generall; or the perfection of it by Reformation?</p>
+            <p>
+               <hi>Obj.</hi> But where is your Glorious Reformation? Is not all turned to confuſion under pretence of Reformation?</p>
+            <p>
+               <hi>R.</hi> The Reformation hath ſo far proceeded as to out the Pope and Popery; and to free us from Prelaticall Impoſitions, Inquiſitions, Innovations. This is more then could have been expected if the other party had prevailed. Yet it grieveth my heart, that it ſticketh there; the cauſe I know not; I dare not judg: yet in my Prayers I ſhall not be a wanting to the cauſe of Religion.</p>
+            <p>
+               <hi>Obj.</hi> But you ſaid, that the Parliament or their Forces did not ſeek the Kings life: how cometh it then to paſſe that they took away his life?</p>
+            <p>
+               <hi>R.</hi> He is dead, and that by the hand of Violence, a violent death; but not without the hand of Juſtice. And for my part I
+<pb n="30" facs="tcp:171213:22"/> doe often lament over him, as <hi>David</hi> did over <hi>Abner,</hi> Died <hi>Abner</hi> as a fool <note n="(l)" place="margin">2 Sam. 3. 33.</note>? There is a Prince, a great man fallen in <hi>Iſ<g ref="char:EOLhyphen"/>rael</hi> 
+               <note n="(m)" place="margin">2 Sam. 3. 38.</note>. And as <hi>David</hi> did over <hi>Saul,</hi> and over <hi>Jonathan</hi> his ſon, How are the mighty overthrown <note n="(n)" place="margin">2 Sam. 1. 19.</note>? How were the mighty ſlain <note n="(o)" place="margin">2 Sam. 1. 25.</note>? The beauty of <hi>Iſrael</hi> is ſlain <note n="(p.)" place="margin">2 Sam. 1. 19.</note> And for the death of the King I have already anſwered ſo far as concern<g ref="char:EOLhyphen"/>neth Declarations, Proteſtation, Covenant; at which time I am confident there was no ſuch intent, what ever others conceit to the contrary. How the caſe altered, I know not, unleſſe his</p>
+            <p n="1">1. Willfull adhering to the adverſe party.</p>
+            <p n="2">2. His not complying for the good of the Kingdome.</p>
+            <p n="3">3. His rejecting all tenders and addreſſes made to him: did render him liable to further ſuſpicion, as not to bee confided in any longer: but to be ſtripped of his honour which hee had proſtituted to others baſe deſignes. And therefore by the fundamentall Laws of the Kingdome (wherewith I am not acquainted) to be deprived of his life as well as his Honor, and Livelyhood. And therefore I leave it to be further anſwered, by thoſe that are verſed in the Fundamental Law: and are able to give an account of all their proceedings againſt him, and his.</p>
+            <p>
+               <hi>Obj.</hi> And what ſay you to <hi>Davids</hi> words? Touch not mine Anointed <note n="(q)" place="margin">Pſ. 105. 15.</note>.</p>
+            <p>
+               <hi>R.</hi> I anſwer, that text ſpeaketh to Kings, not of Kings. It was a reſtraint to Kings to warn them not to oppreſſe, nor reſiſt Gods people, who are called Gods anointed ones, becauſe they have an unction from the Holy one <note n="(r)" place="margin">1 Joh. 2. 20.</note>. This appeareth to be ſo by the context. He reproved Kings for their ſakes, ſay<g ref="char:EOLhyphen"/>ing, Touch not mine Anointed.</p>
+            <p n="1">1. This did literally concern the <hi>Iſraelites</hi> in their progreſs to the promiſed land.</p>
+            <p n="2">2. And it reflecteth upon Chriſtians in all the time of their pilgrimage towards the Heavenly <hi>Canaan, Jeruſalem</hi> above, which is the Mother of us all <note n="(s)" place="margin">Gal. 4. 26.</note>.</p>
+            <p>The <hi>Iſraelites</hi> were not to be hindred in their journey: nor Chriſtians to be diſcouraged in their Chriſtian courſe.</p>
+            <pb n="31" facs="tcp:171213:22" rendition="simple:additions"/>
+            <p> 
+               <hi>Obj.</hi> But what ſay you to <hi>Davids</hi> Example?</p>
+            <p n="1">1. His heart ſmote him when he had cut off <hi>Sauls</hi> skirt <note n="(t)" place="margin">1 Sam. 24. 5.</note>.</p>
+            <p n="2">2. He ſtayed his ſervants from doing any hurt to <hi>Sauls</hi> per<g ref="char:EOLhyphen"/>ſon <note n="(u)" place="margin">1 Sam. 24. 7.</note>.</p>
+            <p n="3">3. He excuſed his innocency in not taking away <hi>Sauls</hi> life. For, ſaid he, He is the Lords anointed <note n="(w)" place="margin">1 Sam. 24. 10.</note>.</p>
+            <p n="4">4. And when the <hi>Amalekite</hi> accuſed himſelf as guilty of the death of <hi>Saul:</hi> he anſwered, Waſt thou not afraid to ſtretch forth thine hand againſt the Lords Anointed <note n="(x)" place="margin">2 Sam. 1. 14.</note>?</p>
+            <p>King <hi>Charles</hi> was the Lords anointed, and yet the Parliament was not afraid, to reſiſt, affront, attach, condemn, and to put him to death.</p>
+            <p>
+               <hi>A.</hi> The anſwer hereunto hath divers particulars.</p>
+            <p n="1">1. Firſt, that <hi>David</hi> was a private perſon: for though hee was anointed to be King, yet he was not to ſucceed till the Lord had made <hi>Sauls</hi> place void. This appeareth by <hi>Davids</hi> words to <hi>Abiſhai.</hi> As the Lord liveth,</p>
+            <p n="1">1. The Lord ſhall ſmite him:</p>
+            <p n="2">2. Or his daies ſhall come to die:</p>
+            <p n="3">3. Or he ſhall deſcend into battell, and periſh. The Lord forbid that I ſhould ſtretch out my hand againſt the Lords anointed <note n="(y)" place="margin">2 Sam. 26. 10.</note>. By which it appeareth that <hi>David</hi> was an ordi<g ref="char:EOLhyphen"/>nary ſubject, though he was anointed: and therefore reſolved to be faithfull to <hi>Saul</hi> all the days that <hi>Saul</hi> ſhould live.</p>
+            <p n="2">2. Again, <hi>Saul</hi> was nominated by God: and actually a<g ref="char:EOLhyphen"/>nointed at Gods command <note n="(z)" place="margin">1 Sam. 9. 17. 10. 1.</note>. Therefore he was to reign till God did take him away. But Kings now are not named by God, nor actually anointed: They are only ſaid ſo to bee in a large ſenſe, and metaphorically.</p>
+            <p n="3">3. Thirdly, none did ſtretch forth his hand againſt the King directly; but the forces were raiſed at the firſt to diſ-in<g ref="char:EOLhyphen"/>gage him from the diſaffected party (whoſe project was to ruine all for their own ends) and to reduce the King to his bounden duty.</p>
+            <p n="4">4. Laſtly, violence may be reſiſted by force, when there is no other way left. And though every particular perſon may not manage that buſineſſe of Reſiſtance by his own authority:
+<pb n="32" facs="tcp:171213:23"/> yet by the authority of the State it may be done. For, not only uſurping Tyrants, but wicked Rulers, that is, ſuch Rulers as</p>
+            <p n="1">1. Oppoſe the State,</p>
+            <p n="2">2. And oppreſſe their Subjects by Illegalities, may be re<g ref="char:EOLhyphen"/>ſiſted and removed too, by the whole State. For from whom Kings doe receive their dignity,</p>
+            <p n="1">1. Whether by Election and compoſition with the people,</p>
+            <p n="2">2. Or by Succeſſion: by the ſame they may be compelled to return unto their duty, and to keep within their bounds. And this holdeth</p>
+            <p n="1">1. Not only in ſuch Kingdomes as are meerly by E<g ref="char:EOLhyphen"/>lections.</p>
+            <p n="2">2. But in thoſe alſo which are by Succeſſion, and Inheri<g ref="char:EOLhyphen"/>tance: ſpecially if ſuch Kings be bound by oath, or Solemne promiſe, at their Coronation, to conditions: as it ſeemeth it was in this Kingdome. And <hi>Davids</hi> demeanour towards <hi>Saul</hi> doth juſtifie this State in their raiſing of Arms. For, though <hi>David</hi> did not aſſault <hi>Saul,</hi> yet he ſtood upon his defence, yea though it was againſt <hi>Saul</hi> who was the Lords anointed <note n="(a)" place="margin">1 Sam. 22. 2.</note>.</p>
+            <p>
+               <hi>Obj.</hi> But what ſay you to the oath of Allegiance? What? ſwear Allegiance to him, and fight againſt him, and kill him?</p>
+            <p>
+               <hi>R.</hi> For killing him I ſay no more but what I have ſaid be<g ref="char:EOLhyphen"/>fore, <hi>p.</hi> 29.</p>
+            <p n="2">2. But for reſiſtance: beſides what I have ſaid before, Read, and conſider the form of that oath of Allegiance, and ye ſhall find in it nothing to the contrary: but that the Hoſtility was lawfull notwithſtanding that oath: The oath hath in it four particulars.</p>
+            <p n="1">1. Firſt, that King <hi>Charls</hi> was lawfull, and rightful King in all his Dominions. Who ever denied that?</p>
+            <p n="2">2. Again, that the Pope hath no power to depoſe him, nor to diſpoſe of any of his Dominions: nor to diſcharge his Subjects of their Allegiance. Who ever affirmed, the Pope had any ſuch power but Papiſts? and yet they were admitted into
+<pb n="33" facs="tcp:171213:23" rendition="simple:additions"/> his Armies, to be the Aſſertors of his Prerogative.</p>
+            <p n="3">3. Thirdly, notwithſtanding any Declaration, or ſentence of Excommunication derived, or pretended to bee derived from the Pope: yet to bear true Allegiance to his Majeſty. Now in all that hath been done to his late Majeſty, it was by Parliamentary Power, and not from any Power from the Pope, neither directly nor indirectly.</p>
+            <p n="4">4. Laſtly, to defend the King, his Perſon, Crown, and Dignity from all conſpiracies, and attempts. And to diſcloſe all Treaſons, and Treacherous conſpiracies. Now no man dare ſay that there was any Treaſon, or Treacherous conſpi<g ref="char:EOLhyphen"/>racy in any of the proceedings againſt him. And what was done to him was not done in a ſecret way of conſpiring: but in the Publique way of Juſtice. Nor was it ſecretly carried on, but made Publique and manifeſt by Declarations.</p>
+            <p>Conſider the ſeverall heads of that oath, and you ſhall find that none of them were violated, no not by the Hoſtility. Be<g ref="char:EOLhyphen"/>cauſe Armes were not taken up againſt the King directly: but againſt Incendiaries, evill inſtruments which were about him, as hath been ſaid, By whom</p>
+            <p n="1">1. The Kings perſon was captivated.</p>
+            <p n="2">2. His power abuſed.</p>
+            <p n="3">3. His Subjects tyrannized over.</p>
+            <p n="4">4. His Dominions put into a fearfull combuſtion.</p>
+            <p n="5">5. And the Kingdome by their means in the way to Deſo<g ref="char:EOLhyphen"/>lation.</p>
+            <p>And in a word, to free the Kings perſon from their Engage<g ref="char:EOLhyphen"/>ment, that ſo, his perſon and power politique, which were ſo far diſtant in place, might have been united again.</p>
+            <p>But there are three Texts in <hi>Solomons</hi> writings, which were objected againſt the Hoſtility of the Defending party.</p>
+            <p>
+               <hi>Arg.</hi> 1. <hi>Solomon</hi> ſaith, I counſell thee to keep the Kings com<g ref="char:EOLhyphen"/>mand, and that in regard of the oath of God <note n="(b)" place="margin">Eccleſ. 8. 2.</note>.</p>
+            <p>
+               <hi>A.</hi> I anſwer, that that text of <hi>Solomon</hi> ſeemeth, in ſound of ſyllables to ſpeak as much as can be ſpoken againſt the Hoſti<g ref="char:EOLhyphen"/>lity: but if well examined it proveth nothing: no ſuch thing for which it is produced. I find that Text two wayes ex<g ref="char:EOLhyphen"/>pounded.</p>
+            <p n="1">
+               <pb n="34" facs="tcp:171213:24"/> 1. Some by King in the Text, underſtand God himſelf: as if this were the ſenſe. I counſell thee to keep all Gods com<g ref="char:EOLhyphen"/>mandements, for his ſolemn promiſe and Covenant ſake.</p>
+            <p>And they that ſo expound it do referre it to that in <hi>Exodus</hi> 
+               <note n="(c)" place="margin">Exod. 24. 3. &amp;c.</note>, where <hi>Moſes</hi> relating the words of God to the people, they with one voice ſaid, All that the Lord hath ſpoken wee will doe. Whereupon <hi>Moſes</hi> built an Altar, and cauſed Burnt-offe<g ref="char:EOLhyphen"/>rings to be offered, and Peace-offerings to be ſacrificed there<g ref="char:EOLhyphen"/>on: and took of the blood and ſprinkled it upon the people, and ſaid, Behold the blood of the Covenant.</p>
+            <p>This was a ſolemn manner of proteſting; and is called, The Oath of the Lord, as all ſolemn oaths are called in the Scrip<g ref="char:EOLhyphen"/>ture. For confirmation whereof, take notice what is ſaid</p>
+            <p n="1">1. Concerning a beaſt that was lent, and it die, or bee hurt, and be taken away, no man ſeeing it: Then an oath of the Lord ſhall be between them, that he hath not put his hand to his neighbours goods <note n="(d)" place="margin">Exod. 22. 10, 11.</note>.</p>
+            <p n="2">2. And concerning <hi>Shimei</hi> that went out of his City, to which he was confined by oath, <hi>Solomon</hi> ſaith to him, Why haſt thou broken the oath of the Lord <note n="(e)" place="margin">1 Kin. 2. 42.</note>?</p>
+            <p n="3">3. And that Covenant which was between God and the people for obedience ſpoken of in <hi>Exodus</hi> 
+               <note n="(f)" place="margin">Exod. 24. 3.</note>, It is called, The Lords oath <note n="(g)" place="margin">Deu. 29. 12.</note>.</p>
+            <p>And if this be the ſenſe, that text alledged out of <hi>Solomon</hi> proveth nothing: it not ſpeaking of an earthly, but of the Heavenly King.</p>
+            <p n="2">2. Others, and I think more properly, by King do under<g ref="char:EOLhyphen"/>ſtand the Supream Magiſtrate, by whatſoever title of dignity he be called. And that clauſe, In regard of the oath of God, they take to be a limitation. As if this were the ſenſe; or as if <hi>Solo<g ref="char:EOLhyphen"/>mon</hi> had ſaid,</p>
+            <p n="1">1. Let Magiſtrates be obeyed.</p>
+            <p n="2">2. Yet ſo far, and no further, as will ſtand with faith, a good conſcence, and with our allegeance unto God.</p>
+            <p>And the reaſon is good, becauſe there is no power but of God <note n="(h)" place="margin">Rom. 13. 1.</note>; and that power which the Magiſtrate hath from,
+<pb n="35" facs="tcp:171213:24" rendition="simple:additions"/> and is to exerciſe and execute under God, muſt not be uſed to deprive God of his due: nor to force obedience contrary to the will of God: which obedience to himſelf the Lord requi<g ref="char:EOLhyphen"/>reth of all, and hath ſworn he will exact it of all. I have ſworn by my ſelf, the word is gone out of my mouth in righteouſ<g ref="char:EOLhyphen"/>neſſe, and ſhall not return, That every knee ſhall bow to mee: and every tongue ſhall ſwear to me <note n="(i)" place="margin">Eſay 45. 23.</note>.</p>
+            <p>Here is the oath of the Lord<g ref="char:punc">▪</g> and it muſt be ſhewed me out of Gods word what is contrary, or this muſt be the ſenſe. Namely, Swear to obey Magiſtrates, yet ſo, as ye infringe not your allegiance unto God. And this ſeemeth to be the more probable, becauſe where obedience is commanded in larger terms to Parents and to Maſters, as, Children obey your Pa<g ref="char:EOLhyphen"/>rents in all things <note n="(k)" place="margin">Col. 3. 20.</note>, Servants be obedient in all things <note n="(l)" place="margin">Col. 3. 22.</note>, It is, elſewhere, limited to all lawfull things. Children obey your Parents in the Lord <note n="(m)" place="margin">Eph. 6. 1.</note>, and ſo of Servants <note n="(n)" place="margin">Eph. 6. 5.</note>. And ſo, by conſequent are Magiſtrates to be obeyed, <hi>viz.</hi> in all lawfull and juſt things. For there is the ſame reaſon of both, as ap<g ref="char:EOLhyphen"/>peareth by the tenour of the fift Commandement: Honor thy Father and thy Mother <note n="(o)" place="margin">Exo. 20. 12.</note>: Where, under the terms of Father and Mother, all ſorts of Superiours (Politicall, Oecono<g ref="char:EOLhyphen"/>micall, Civill, and Eccleſiaſticall, Superiour and Inferiour) are comprehended. And this is a truth undeniable, that</p>
+            <p n="1">1. To God, univerſall obedience and without any limita<g ref="char:EOLhyphen"/>tion is required.</p>
+            <p n="2">2. But to men, obedience hath its limitations.</p>
+            <p>And upon this ground, the Three Children refuſed to wor<g ref="char:EOLhyphen"/>ſhip the image which <hi>Nebuchadnezzar</hi> had ſet up <note n="(p)" place="margin">Dan. 3. 16.</note>. And <hi>Peter</hi> with the reſt of the Apoſtles told the Councell that we ought to obey God rather then men <note n="(q)" place="margin">Acts 5. 29.</note>. And <hi>Peter</hi> and <hi>John</hi> appea<g ref="char:EOLhyphen"/>ling to the Councell ſaid, whether it bee right in the ſight of God to hearken to you rather then to God, judge yee <note n="(r)" place="margin">Acts 4. 19.</note>.</p>
+            <p>But wee may anſwer yet otherwiſe; Namely, That King <hi>Charles</hi> his power was virtually in and with the Parliament, though he was not there in perſon. And ſo he in his Poli<g ref="char:EOLhyphen"/>tique power, was in the raiſing the Armies againſt the Adverſe party. For</p>
+            <p n="1">
+               <pb n="36" facs="tcp:171213:25"/> 1. Though his perſon was abſent, and eſtranged from his Parliament;</p>
+            <p n="2">2. Yet King and Parliament being a body Politick, could not be ſevered. God, and the Law had conjoined them: and thoſe whom God had ſo firmly conjoined, no man could juſt<g ref="char:EOLhyphen"/>ly put aſunder. Wherefore whereſoever the King was in per<g ref="char:EOLhyphen"/>ſon, where could we ſeek his power Politick but in that place, and with thoſe perſons to which himſelf by royal obſignation of that Law had confined it?</p>
+            <p>For confirmation whereof three things are to be taken into ſerious conſideration.</p>
+            <p n="1">1. Firſt, the Legall Call of this Parliament, which was common to this, with all precedent Parliaments; it was ſum<g ref="char:EOLhyphen"/>moned by writ from the King: and that ſummons was neceſſi<g ref="char:EOLhyphen"/>tated by want of counſell and ſupport, which otherwiſe could not be had but in a Parliamentary way.</p>
+            <p>And herein we are to admire and reverence the Providence of God, to ſend a free Parliament beyond all hope &amp; expectation. For had we faln to blows with the <hi>Scotiſh</hi> Nation in either of thoſe Expeditions which were made againſt them, one or both Kingdomes had in all probability gone to ruine. As <hi>Jacob</hi> therefore ſaid of <hi>Simeon</hi> and <hi>Levi:</hi> Curſed be their anger, for it was fierce, and their wrath, for it was cruell <hi>(s):</hi> So ſay I of thoſe that were the Counſellers and contrivers of that de<g ref="char:EOLhyphen"/>ſtroying project, Curſed was their counſell, for it was full of cruelty. Yet God who only can bring good out of evill, turned this to both Kingdomes good. For by that means the King was neceſſitated to call a Parliament,</p>
+            <p n="1">1. To the joy and admiration of the Beſt affected.</p>
+            <p n="2">2. To the terrour and aſtoniſhment of the Adverſe party. Some whereof being conſcious of their guilt, not willing to abide the tryall, betook themſelves to flight.</p>
+            <p>The Parliament therefore was lawfully called this none can deny. Let thoſe therefore that have called this a forced, not a free Parliament, either anſwer this, or for ever hereafter hold their peace for ſhame.</p>
+            <p n="2">
+               <pb n="37" facs="tcp:171213:25" rendition="simple:additions"/> 2. Again, the ſolemn confirmation of the Parliament by Act of continuation. In which this preſent, differeth from all precedent Parliaments, that ever I could hear or read of. I ſay the continuation of it,</p>
+            <p n="1">1. In its full authority.</p>
+            <p n="2">2. And with all its rights, and Priviledges.</p>
+            <p>Did not the King, by that Act, tie his preſence, at leaſt the preſence of his Politick power, and Soveraign authority, as Head, and Chief in Parliament to the place, or with the per<g ref="char:EOLhyphen"/>ſons, to which he had confined, and confirmed it? Let all the world judg. If otherwiſe, I would fain know,</p>
+            <p n="1">1. Of what force that Act was,</p>
+            <p n="2">2. Or what benefit could accrue to the Kingdome there<g ref="char:EOLhyphen"/>by.</p>
+            <p>Let us put a caſe or two.</p>
+            <p n="1">1. If any man ſhould purchaſe, Eſtate Right or Priviledge of any other, and have the ſame made over to him by written and by ſealed evidence, and have a lawfull ſeiſure thereof: the purchaſer hath an Indefeiſable, an unavoidable title thereto: and great reaſon to hold and enjoy what hath been ſo made over to him upon valuable conſiderations.</p>
+            <p n="2">2. Or if a father (for this ſimilitude fitteth the caſe beſt) ſhall freely give an eſtate to his ſon or ſons, for his, or their preferment, ſpecially in the way of Marriage: though the fa<g ref="char:EOLhyphen"/>ther take no conſideration in lieu thereof: ſuch gift is good in Law, and doth debarre the father from all Re-entry. But if in lieu and recompence hee take the Dowry, or any part thereof, or any other collaterall ſatisfaction: that eſtate being therewith purchaſed, no Law can ever reverſe, or make the fa<g ref="char:EOLhyphen"/>thers act of none effect.</p>
+            <p>Here is the caſe: for if our father the late King had freely gi<g ref="char:EOLhyphen"/>ven that act of Continuation for the bettering of our conditi<g ref="char:EOLhyphen"/>on, it had been ſufficient for the duration of it. But paſſing it over by way of purchaſe for vaſt ſums by Subſidies, Pole-mo<g ref="char:EOLhyphen"/>nies and the reſt, this makes the caſe ſtrong: and the Kingdoms armies which were advanced by the authority of the High Court were to maintain that act, to defend that title.</p>
+            <pb n="38" facs="tcp:171213:26"/>
+            <p> And if a father, after ſuch act done ſhall wage Law to diſ<g ref="char:EOLhyphen"/>ſeiſe, and diſpoſſeſſe his ſon or ſons: ſhall it not be lawfull for him or them to defend the ſaid title, by the ſame Law? or is it any injuſtice in ſuch ſon or ſons? Certainly it is no diſobedi<g ref="char:EOLhyphen"/>ence. Our father the late King did eſtate the Kingdom as hath been ſhewed: and after did commence ſute by taking up of armes: and might not the Subjects then defend their purcha<g ref="char:EOLhyphen"/>ſed title by the ſame Law of Arms: and as it were in the ſame Court of Judicature?</p>
+            <p n="3">3. Laſtly, Conſider the late Kings Grant, his free acknow<g ref="char:EOLhyphen"/>ledgment, that the preſent Parliament at <hi>Weſtminſter</hi> was the Parliament of <hi>England.</hi> Mark the emphaſie,</p>
+            <p n="1">1. Not only a Parliament,</p>
+            <p n="2">2. Not only a Parliament in <hi>England;</hi>
+            </p>
+            <p n="3">3. But, in full expreſſions, The Parliament of <hi>England,</hi> that is,</p>
+            <p n="1">1. The Legally called,</p>
+            <p n="2">2. The Solemnly confirmed,</p>
+            <p n="3">3. The Legally continued,</p>
+            <p n="4">4. The one and only Parliament of <hi>England;</hi> And here</p>
+            <p n="1">1. No fallacious Equivocation,</p>
+            <p n="2">2. No mentall Reſervation,</p>
+            <p n="3">3. No forged Cavillation,</p>
+            <p n="4">4. No forced Conſtruction muſt have any place. But all words in commerce and contracts muſt be underſtood accor<g ref="char:EOLhyphen"/>ding to the Grammaticall conſtruction, common uſe, and re<g ref="char:EOLhyphen"/>ceived ſenſe: or all parties, contracts, grants, and promiſes would prove but meer illuſions, and devoid of confidence. So much for the firſt Argument.</p>
+            <p>
+               <hi>Arg.</hi> 2. Again, <hi>Solomon</hi> ſaith, where the word of a King is there is power; and who may ſay to him, What doſt thou? <note n="(t)" place="margin">Eccle. 8. 4.</note>.</p>
+            <p>
+               <hi>A.</hi> This argument hath two parts.</p>
+            <p n="1">1. Firſt, that every word of a King hath power.</p>
+            <p n="2">2. Again, that in his wayes and doings hee is uncontrolla<g ref="char:EOLhyphen"/>ble.</p>
+            <p n="1">1. For the firſt, Hath every word of a King power? How
+<pb n="39" facs="tcp:171213:26" rendition="simple:additions"/> then came it to paſſe, that King <hi>Sauls</hi> words had no more power? He ſaid, and bound it with an oath that <hi>Jonathan</hi> his ſon ſhould die: but the people gainſayed, and reſcued <hi>Jonathan</hi> 
+               <note n="(v)" place="margin">1 Sam. 14. 45.</note>, And wee doe not read that ever the people were faulted for it.</p>
+            <p>But this is certain, that when a Kings word is raſh, ridicu<g ref="char:EOLhyphen"/>lous, impious or impoſſible, it hath no power in it.</p>
+            <p n="1">1. No commanding power in regard of the thing com<g ref="char:EOLhyphen"/>manded.</p>
+            <p n="2">2. Though there may likely be a condemning power in re<g ref="char:EOLhyphen"/>ſpect of the perſon refuſing.</p>
+            <p n="2">2. Again, is a King in all his doings not to be controlled? <hi>Solomon</hi> doth not ſpeak of the Illegality of the thing: but only of the danger, He doth not ſay, It is not lawfull to ſay to a King, What doſt thou? but he doth inſinuate that it is full of danger, Who may ſay? that is, Who may ſafely doe it? For,</p>
+            <p n="1">1. Firſt, it ſeemeth to be lawfull, it may be ſaid to a King, What doſt thou? as appeareth</p>
+            <p>By that of <hi>Samuel</hi> to <hi>Saul,</hi> What haſt thou done <note n="(w)" place="margin">1 Sam. 13. 11.</note>?</p>
+            <p>And by that of <hi>Elijah</hi> to King <hi>Ahab,</hi> I have not troubled <hi>Iſ<g ref="char:EOLhyphen"/>rael,</hi> but thou and thy fathers houſe <note n="(x)" place="margin">1 Ki. 18. 18.</note>.</p>
+            <p>And by that of <hi>John</hi> the Baptiſt to <hi>Herod,</hi> It is not lawful for thee to have thy brothers wife <note n="(y)" place="margin">Mat. 14. 4.</note>.</p>
+            <p n="2">2. But it ſeemeth to be very dangerous, if we conſider <hi>Jero<g ref="char:EOLhyphen"/>boams</hi> dealing with the man of God. Lay hold on him ſaid <hi>Je<g ref="char:EOLhyphen"/>roboam</hi> 
+               <note n="(z.)" place="margin">1 Kin. 13. 4.</note>
+            </p>
+            <p>Or <hi>Ahabs</hi> dealing with <hi>Micaiah.</hi> Put this man in priſon <note n="(a)" place="margin">1 Ki. 22. 27.</note>.</p>
+            <p>Or <hi>Amaziah</hi> his dealing with the Prophet that did reprove him. Art thou made of the Kings Councel? Why ſhouldſt thou bee ſmitten <note n="(b)" place="margin">2 Ch. 25. 16.</note>?</p>
+            <p>It is therefore lawfull, perſon and manner conſidered: but is very dangerous.</p>
+            <p>
+               <hi>Arg.</hi> 3. Again <hi>Solomon</hi> ſaith, The fear of a K. is as the roaring of a Lyon: whoſo provoketh him to anger ſinneth againſt his own ſoul <note n="(c)" place="margin">Pro. 20. 20.</note>. Where ye ſee Sin and Soul joined together, and
+<pb n="40" facs="tcp:171213:27"/> it muſt needs imply that ſuch an one ſinneth damnably, or to death.</p>
+            <p>
+               <hi>A.</hi> I anſwer, that this is a fallacy of the figure of ſpeech; for neither Sin nor Soul are uſed in a proper ſenſe. For,</p>
+            <p n="1">1. Firſt, by Soul is meant Life, as in divers other texts of Scripture, but eſpecially in the <hi>Pſalmes:</hi> as in theſe paſſages that follow.</p>
+            <p>Deliver my Soul from the ungodly <note n="(d)" place="margin">Pſal. 17. 13.</note>.</p>
+            <p>They have laid waite for my Soul <note n="(e)" place="margin">Pſal. 57. 4.</note>.</p>
+            <p>Leſt he tear my Soul like a Lyon <note n="(f)" place="margin">Pſal. 7. 2.</note>.</p>
+            <p>And in many other ſuch like paſſages Soul is uſed in that ſenſe.</p>
+            <p n="2">2. Again, the word Sinne is not alwaies uſed to ſignify a tranſgreſſion of a Divine law, which is properly called Sinne, as <hi>John</hi> defineth Sinne to be the tranſgreſſion of the Law <note n="(g)" place="margin">1 Joh. 3. 4.</note>. But,</p>
+            <p n="1">1. Sometimes it is largely uſed for miſſing of a mark; Thus it is ſaid of the Children of <hi>Benjamin,</hi> that they could ſling ſtones at an hairs breadth and not ſinne, or miſſe <note n="(h)" place="margin">Judg. 20. 16.</note>. And ſaith <hi>Solomon,</hi> He that is haſty with his feet ſinneth or ſlippeth <note n="(i)" place="margin">Prov. 19. 2.</note>.</p>
+            <p n="2">2. Again, a man is ſaid to ſin againſt another man by do<g ref="char:EOLhyphen"/>ing ſome injuſtice to him, whereby he is either hurt or wron<g ref="char:EOLhyphen"/>ged. In which ſenſe <hi>Reuben</hi> ſaid to his brethren, Spake I not unto you, ſaying, Doe not ſin againſt the child <note n="(k)" place="margin">Gen. 42. 22.</note>?</p>
+            <p n="3">3. And a man is ſaid to ſin againſt his own ſoul, when hee doth ſomething which may call his life in queſtion. And thus is <hi>Solomon</hi> to be underſtood, in the text objected, <hi>viz.</hi> He that provoketh a King to anger ſinneth againſt his own Soul. And that this is <hi>Solomons</hi> meaning it appeareth by two other paſſa<g ref="char:EOLhyphen"/>the <hi>Proverbs, viz.</hi>
+            </p>
+            <p>The Kings wrath is as the roaring of a Lyon <note n="(l)" place="margin">Prov. 19. 12.</note>.</p>
+            <p>The wrath of a King is as the meſſengers of death <note n="(m)" place="margin">Prov. 16. 14.</note>.</p>
+            <p>But if any liſt to interpret Sinne and Soul properly, then it muſt be underſtood of a juſt provocation: and not of every anger or offence raſhly taken. And it cannot be forgotten, who took up arms firſt, and who ſtroke the firſt blow.</p>
+            <pb n="41" facs="tcp:171213:27" rendition="simple:additions"/>
+            <p> But why doe I ſpeak of provoking a King, when we have no King in <hi>Eſſe,</hi> no not ſo muth as in <hi>Poſſe,</hi> ſo far as we can ſee with the eyes of worldly poſſibility? But a King we had when I firſt delivered theſe things. But he is dead and gone, and as I ſaid before, I doe often lament over him as <hi>David</hi> did over <hi>Ab<g ref="char:EOLhyphen"/>ner</hi> 
+               <note n="(n)" place="margin">2 Sam. 3. 38.</note>, and over <hi>Saul</hi> and <hi>Jonathan</hi> 
+               <note n="(o)" place="margin">2 Sam. 1. 19.</note>, and as all <hi>Judah</hi> did over <hi>Joſiah.</hi> The crown is faln from our heads: woe to us that wee have ſinned <note n="(p)" place="margin">Lam. 5. 16.</note>. O brethren we have ſinned.</p>
+            <p n="1">1. Our ſins miſcarried him into Illegall courſes.</p>
+            <p n="2">2. Our ſins apprehended, ſecured, arraigned, condemned, executed him.</p>
+            <p>Let the Nation therefore lament her ſins: and prize Superi<g ref="char:EOLhyphen"/>ors at a higher rate. And, for our ſins, God hath made an alte<g ref="char:EOLhyphen"/>ration. Let us not ſtruggle againſt the Diſpenſations of over<g ref="char:EOLhyphen"/>ruling Providence. But let us ſay, with the <hi>Pſalmiſt,</hi> This is the Lords doing, and it is marvellous in our eyes <note n="(q)" place="margin">Pſa. 118. 23.</note>. And let us own the Power in their hands to whom God hath trans<g ref="char:EOLhyphen"/>ferred it. And we now ſee where the Power is: let us own it, and be ſubject to it. And ſpoken be it to every Soul. <hi>Let every Soul be ſubject, &amp;c.</hi> The Concluſion.</p>
+            <p>All that is ſaid before conſidered, I, for my part, can ſee no ground</p>
+            <p n="1">1. Either in Reaſon,</p>
+            <p n="2">2. Or of Religion,</p>
+            <p>Why I ſhould make any ſcruple of Conſcience to ſubſcribe the Engagement. Why I may not</p>
+            <p n="1">1. Freely ſubſcribe,</p>
+            <p n="2">2. Faithfully obſerve,</p>
+            <p n="3">3. Cordially obey,</p>
+            <p n="4">4. Conſtantly ſubmit unto that Government which is now ſetled by full anthority of the Power in Being: which muſt be acknowledged (as things now ſtand) to be in the hands of the Commons of <hi>England,</hi> by their Truſtees, and Repreſentatives in Parliament.</p>
+            <p>The form of the Engagement is this.</p>
+            <floatingText xml:lang="eng" type="form">
+               <body>
+                  <p>
+                     <hi>I (T. C.) doe declare and promiſe to bee faithfull to the Common<g ref="char:EOLhyphen"/>wealth in the Government now eſtabliſhed without a King, or Houſe of Lords.</hi>
+                  </p>
+               </body>
+            </floatingText>
+            <pb n="42" facs="tcp:171213:28"/>
+            <p> And note I pray you, that faithfulneſſe to the Common<g ref="char:EOLhyphen"/>wealth in the Government eſtabliſhed, to which we do oblige our ſelves by ſubſcription; is not to be underſtood of an unli<g ref="char:EOLhyphen"/>mited ſubjection in regard of things to be done: but it is to be underſtood of things lawfull, poſſible, and honeſt. Which is the condition of all Civill Engagements; for unlimitted obe<g ref="char:EOLhyphen"/>dience is due to God only, as is ſhewed before, <hi>p.</hi> 27, 28.</p>
+            <p>
+               <hi>Obj.</hi> But it will be ſaid that this Engagement doth croſſe, and contradict</p>
+            <p n="1">1. Both the Proteſtation made in <hi>Anno</hi> 1641.</p>
+            <p n="2">2. And the Covenant made in <hi>Anno</hi> 1643.</p>
+            <p n="3">3. And a Declaration of the Houſe of Commons made in <hi>Anno</hi> 1646.</p>
+            <p n="1">1. In the firſt we did Proteſt, according to our duty of al<g ref="char:EOLhyphen"/>legiance, to maintain, and defend his Majeſties Royall perſon, honour, and eſtate. Where was a full ſtop, as not relating to any conditions.</p>
+            <p n="2">2. In the ſecond we did covenant to preſerve the Kings Ma<g ref="char:EOLhyphen"/>jeſties perſon and authority, in the preſervation and defence of the true Religion, and the Liberties of the Kingdome. That the world may bear witneſſe with our conſciences of our Loyalty: and that we have no thoughts and intentions to di<g ref="char:EOLhyphen"/>miniſh his Majeſties juſt power, and greatneſſe.</p>
+            <p n="3">3. In the laſt, it was declared by the Houſe of Commons (which Declaration was publiſhed in every Church, and was commanded to be faſtned up in every Church: and is to be ſeen ſtill in many Churches) that their intentions were not to alter the Government by King, Lords, and Commons.</p>
+            <p>Theſe things being proteſted, covenanted and declared, now to ſubſcribe a Government without a King or Houſe of Lords; This is that which ſticketh moſt, and with many that are very moderate, and truly conſcientious.</p>
+            <p>
+               <hi>R.</hi> This is thought to bee hard to bee anſwered. But let us conſider how things then ſtood. And diſtinguiſh of the times.</p>
+            <p n="1">1. As things then ſtood, all was really intended.</p>
+            <p n="2">2. But the Kings non-compliance: and ſome miſcarriage in
+<pb n="43" facs="tcp:171213:28" rendition="simple:additions"/> the Houſe of Lords, have been the cauſe of the alteration of things both really intended, Solemnly proteſted, and Publike<g ref="char:EOLhyphen"/>ly declared.</p>
+            <p n="2">2. And though the Proteſtation was larger then the Co<g ref="char:EOLhyphen"/>venant, there being a full ſtop, as not relating to any Conditi<g ref="char:EOLhyphen"/>ons as I ſaid before.</p>
+            <p n="2">2. Now his late Majeſty continuing wilfully in his wayes which threatned ruine, by his Forces, to Religion, and to Li<g ref="char:EOLhyphen"/>berties. Therefore the Covenant was, upon ſecond thoughts, framed: which was an addition to, and an expoſition of that clauſe of Defence, as to his Majeſties Perſon, and Authority. Shewing.</p>
+            <p n="1">1. Both wherein,</p>
+            <p n="2">2. And how far, we ſhould manage that Defence: name<g ref="char:EOLhyphen"/>ly, to the good of Religion, and to the ſafety of the Com<g ref="char:EOLhyphen"/>monwealth, with all its juſt Rights, and Priviledges: and not to the prejudice of either.</p>
+            <p>So long as the King did ſhew himſelf a Father, a foſter Fa<g ref="char:EOLhyphen"/>ther of the Church, and State, the Kingdome was bound, by its manifold engagements, to defend his Perſon, and his Power. And had the King done his part timely, and effectually, it had been ſomewhat. But conſider,</p>
+            <p n="1">1. What Petitions were preſented to him.</p>
+            <p n="2">2. What large proffers were made to him,</p>
+            <p n="3">3. What Delayes, that I ſay nothing of Denyals, were made by him.</p>
+            <p n="4">4. What Siniſter Succeſſes the many Addreſſes had from him.</p>
+            <p n="5">5. How fruitleſſe all the Treaties have been ſince thoſe en<g ref="char:EOLhyphen"/>gagements.</p>
+            <p n="6">6. What under-hand Dealings, (by his Party, and not without his Privity) there have been even during the times of thoſe Treaties.</p>
+            <p>Whoſoever ſhall but read that Declaration which ſetteth forth the reaſons of the Reſolves of both Houſes then ſitting, for no more Addreſſes to be made to him: ſhall ſee enough to make his heart relent in him even in both regards, <hi>viz.</hi> of
+<pb n="44" facs="tcp:171213:29"/> Religion, and of Liberties. I ſpeak the truth in Chriſt Jeſus, I lie not, my Conſcience bearing mee witneſſe in the Holy Ghoſt <note n="(r)" place="margin">Rom. 9. 1.</note>, That I cannot read it but my very Soul reſolveth into teares, at many things therein Declared which were of dangerous conſequence both to Church and State. And I hope no man can juſtly brand that Declaration with the im<g ref="char:EOLhyphen"/>putation</p>
+            <p n="1">1. Either of flattery on the one ſide:</p>
+            <p n="2">2. Or of falſhood on the other.</p>
+            <p>If ſo, it were ten thouſand pities, it is not publiſhed for ge<g ref="char:EOLhyphen"/>nerall ſatisfaction.</p>
+            <p>What paſſed in the Iſle of <hi>Wight,</hi> I cannot fully relate: but ſomewhat there was which ſavoured not well as to ſecurity of Religion, or Liberties: which was the main cord of Obli<g ref="char:EOLhyphen"/>gation in all the Solemn Engagements, both by Proteſtation, and by Covenant.</p>
+            <p n="1">1. If any Commiſſions were then given underhand.</p>
+            <p n="2">2. If any Plottings by the Royall Party, by vertue of any new or old Commiſſions to make that Treaty fruitleſſe, and Invalid, even during the time of that Treaty.</p>
+            <p n="3">3. If any Combinations by the Royaliſts to attempt their owne ends by making Factions, and Parties. As who for King? who for Parliament? Of which the beſt affected had great Jealouſies, and not without juſt cauſe, and many fears. Then conſider how farre that clauſe of Defence did oblige. The ends being deſpaired of, for to which thoſe Engagements did re<g ref="char:EOLhyphen"/>late.</p>
+            <p>
+               <hi>Ob.</hi> Now ſome ſay, that the whole Kingdome hath bro<g ref="char:EOLhyphen"/>ken Covenant, in not riſing, but ſitting ſtill, till the King was put to death,</p>
+            <p>
+               <hi>R.</hi> No: the Covenant it ſelf is not broken, becauſe the ends could not be ſecured. And beſides private men by private authority, may not manage a riſing againſt Authority. The power of the Commons is in their truſtees: to them it belongs to Legitimate all publick Force. Hee that taketh the Sword, ſhall periſh with the Sword, ſaith <hi>Chriſt</hi> to <hi>Peter</hi> 
+               <note n="(s)" place="margin">Mat. 26. 52.</note>: that is, he that taketh the ſword of private revenge, ſhall periſh by the Sword of Publike Juſtice.</p>
+            <pb n="45" facs="tcp:171213:29" rendition="simple:additions"/>
+            <p> Well, dead he is, and not without the diſpoſing hand of God. It cannot be denyed, but he was a perſonage of Rare, and Royall parts. And had he not been ſeduced by evil Coun<g ref="char:EOLhyphen"/>ſels to his own ruine, as <hi>Ahaziah</hi> was, of whom it is ſaid, his Counſellors were the cauſe of his deſtruction <note n="(t)" place="margin">2 Chron. 22. 4.</note> Hee might ſtill have been,</p>
+            <p n="1">1. A Glorious King,</p>
+            <p n="2">2. Over a moſt faithfull people,</p>
+            <p n="3">3. In a moſt flouriſhing Iſland.</p>
+            <p>But he is tranſlated (though by an untimely death) to a more glorious company. And now ſits in a more glorious eſtate, then ever he did on earth.</p>
+            <p>It was his Deſtiny laid on him by God: and therefore, while we lament, as reflecting on his ſad fate here, let us re<g ref="char:EOLhyphen"/>joice in contemplation of his Glory in Heaven, among the bleſſed Saints and Angels. And now let us caſt our eyes upon the Power now in being: and ſince God hath ſet it up, it is not in man to pull it down. Subjection to the power is com<g ref="char:EOLhyphen"/>manded by the Apoſtle. And, for my part, ſince God hath ſet up this power, and by it the Government, I ſhall Subſcribe freely: reſolving to be ſubject to the preſent Power, becauſe it is of God.</p>
+            <p>
+               <hi>Ob.</hi> Here again ſome take offence. Do you not ſee (ſay they) what a Confuſion is crept in amongſt us?</p>
+            <p n="1">1. All things,</p>
+            <p n="2">2. And almoſt all perſons out of order,</p>
+            <p>Call you this a Reformation according to the Covenant?</p>
+            <p>
+               <hi>R.</hi> I doe both ſee, and mourn. And it much dejects the hearts of many precious Saints, to ſee</p>
+            <p n="1">1. The Churches almoſt empty, and the People running into Corners.</p>
+            <p n="2">2. The Publike Worſhip neglected.</p>
+            <p n="3">3. The Sacraments, that of the Supper, in particular, diſ<g ref="char:EOLhyphen"/>continued.</p>
+            <p n="4">4. The Miniſtery diſcountenanced.</p>
+            <p n="5">5. Zealous Profeſſors derided.</p>
+            <p n="6">
+               <pb n="46" facs="tcp:171213:30"/> 6. Learning undervalued.</p>
+            <p n="7">7. Chriſtian Liberty ſet upon the Rack to uſher in a world of Errors.</p>
+            <p n="8">8. And Liberty of Conſcience walking up and downe: and running into manifold extravagances.</p>
+            <p>
+               <hi>Exurgat Deus,</hi> Let God ariſe <note n="(v)" place="margin">Pſal. 68. 1.</note>.</p>
+            <p>It is time for the Lord to work, for they have made void thy Law <note n="(w)" place="margin">Pſal. 119. 126.</note>. But now, where ſhall we lay the blame? what? directly on the Power? I cannot but ſay that there hath been ſome failings in the Power: but other Emergent buſineſſes have ſo taken them up, as of neceſſity they were forced to at<g ref="char:EOLhyphen"/>tend to other matters. But indeed the fault is principally in the people, who ſhould have acted, in their places, according to the Ordinances of the Power. The fault I ſay is principally in the people: and that in theſe two regards.</p>
+            <p n="1">1. The firſt is the vanity and inſtability of the minds of the people, who fall into ſtrange miſcarriages, they being infected with the poiſon of ungrounded Tenets: which they uphold with a ſtrong hand, and will not be controlled. And they take advantage and encouragement in this Jun<g ref="char:EOLhyphen"/>cture of time, wherein the power is, and hath been in a man<g ref="char:EOLhyphen"/>ner wholly taken up with urgent, and emergent occurrences. Namely,</p>
+            <p n="1">1: Firſt, the ſecuring of the New moulded Common<g ref="char:EOLhyphen"/>wealth, in this time of ſo many diſtractions, and diſtempers. Some being wholly for Monarchy; others for Anarchy: ſome for one thing, ſome for another.</p>
+            <p n="2">2. Again, the reducing of <hi>Ireland,</hi> which is of great con<g ref="char:EOLhyphen"/>cernment to the ſecurity of the State. This meeteth with ſtrong oppoſition: and therefore, cannot, but it muſt needs take up much time.</p>
+            <p n="3">3. Laſtly, to hold a Brotherly correſpondency both with our fellow Covenanteers of the Scottiſh Nation: and with other States, and Churches abroad. And what retarding, the New fallen difference between the Scots, and our ſelves, may occaſion, I cannot foretell.</p>
+            <p>The ſecond is, the want of obedience to former Ordinan<g ref="char:EOLhyphen"/>ces
+<pb n="47" facs="tcp:171213:30" rendition="simple:additions"/> of the Power. For had the Prebyteriall Government ſet forth by Ordinances of the Power, found its wiſhed entertain<g ref="char:EOLhyphen"/>ment: and with that ready compliance as was expected: a bleſſed effect for ſuppreſſing both Errors, and enormities had ſeconded thoſe Ordinances long ere this.</p>
+            <p>Therefore if we ſearch into the cauſes of theſe our confu<g ref="char:EOLhyphen"/>ſions, and diſtempers, wee ſhall finde them to flow principal<g ref="char:EOLhyphen"/>ly from theſe two Springs.</p>
+            <p n="1">1. Firſt the vanities of mens mindes: being neither zealous for, nor conſtant to the Truth.</p>
+            <p n="2">2. Again, a lawleſſe Liberty which many take to them<g ref="char:EOLhyphen"/>ſelves, whereby they have rejected a Tendered Government. And this later is,</p>
+            <p n="1">1. Partly from the ignorance of thoſe that neither know, nor will own the excellency of a Presbytery. Both for re<g ref="char:EOLhyphen"/>ſtraining the extravagancies of the exorbitant: and for the en<g ref="char:EOLhyphen"/>couragement of the godly party.</p>
+            <p n="2">2. Partly from the diſlike of thoſe that are ſcandalous, who are, as we ſay, Tooth and Nail, againſt all means of reſtraint: which would have been urgent, and effectuall under that kind of Government.</p>
+            <p n="3">3. And partly from the madneſſe, and malice of thoſe that are infected with Antinomian, Anabaptiſticall, and other er<g ref="char:EOLhyphen"/>roneous principles. Theſe cry up I know not what kinde of Lawleſſe Liberty, and are not willing to bee brought under a<g ref="char:EOLhyphen"/>ny limitting, and reſtraining Government.</p>
+            <p>Put all theſe together, and ye have the true cauſe. And now to fly upon the face of the Power, this is a fallacy, that is, when that that is not the cauſe is put for the cauſe. And to ſpeake plain Engliſh, It is a trick of the Devill to hold men the faſter in their Ignorance, Errours, and Extrava<g ref="char:EOLhyphen"/>gancies.</p>
+            <p>And becauſe there is ſo much grumbling at the preſent ſtate of the Church, and Commonwealth, in reſpect of the Covenant, I ſhall therefore take Liberty, to take the Cove<g ref="char:EOLhyphen"/>nant in peeces, and to take a view of all the particulars in it. And ſo it will plainly appear, that while theſe men inſiſt ſo
+<pb n="48" facs="tcp:171213:31"/> much upon one clauſe in the Covenant, they neglect all the reſt of it. The particular heads or branches of the Covenant are theſe ſix, as they follow now in order.</p>
+            <p n="1">1. The firſt is Reformation of Religion in Worſhip, Di<g ref="char:EOLhyphen"/>ſcipline, and Government according to the Word of God: and the example of the beſt reformed Churches, &amp;c.</p>
+            <p>But the moſt, and they that grumble moſt, cry all Re<g ref="char:EOLhyphen"/>formation, they extoll Prelacy: they would have their old Service, their old Ceremonies.</p>
+            <p n="2">2. Secondly, the extirpation of Popery, Prelacy, Superſti<g ref="char:EOLhyphen"/>tion, Hereſie, Sciſm, Prophaneneſſe, and whatſoever ſhall be found to be contrary to ſound Doctrine, and the Power of Godlineſſe, &amp;c.</p>
+            <p>But who almoſt regardeth ſound Doctrine, and the power of godlineſſe? I am ſure that Schiſm, and Prophaneneſſe a<g ref="char:EOLhyphen"/>bound more now, then in former times.</p>
+            <p n="3">3. The third is, with Realty, Sincerity, and Conſtancy, with our Lives, and Eſtates mutually to preſerve the Rights and Priviledges of Parliament: the Liberties of the Kingdom. And to preſerve the Kings Majeſty, Perſon, and Authority in the preſervation, and defence of the true Religion, and the Li<g ref="char:EOLhyphen"/>berties of the Kingdome, &amp;c.</p>
+            <p>But the Rights, and Priviledges of Parliament are in no grace: for they that grumble moſt do contemne the Parlia<g ref="char:EOLhyphen"/>ment, and condemne all Parliamentary proceedings. Their proceedings againſt the late King, filleth their hearts with madneſſe, and their tongues with clamour.</p>
+            <p n="4">4. Fourthly, with all faithfulneſſe to endeavour the diſco<g ref="char:EOLhyphen"/>very of all ſuch as have been, or ſhall be Incendiaries, Malig<g ref="char:EOLhyphen"/>nants, or evill Inſtruments, by hindering the Reformation of Religion: dividing the King from his people: or making any faction, or parties among the people, &amp;c.</p>
+            <p>I appeal to all men, (I, for my part, have found it ſo) if ma<g ref="char:EOLhyphen"/>ny of thoſe that cavill moſt, be not of the ſame hair: and if they would not be glad of any opportunity,</p>
+            <p n="1">1. To make a faction,</p>
+            <gap reason="missing" extent="1+ pages">
+               <desc>〈1… pages missing〉</desc>
+            </gap>
+            <pb facs="tcp:171213:31"/>
+         </div>
+      </body>
+   </text>
+</TEI>
